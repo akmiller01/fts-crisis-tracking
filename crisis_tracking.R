@@ -112,7 +112,8 @@ for(i in 1:nrow(loop_param_df)){
     "x : USD" = "exchangeRate",
     "Total Amount Committed (USD mn)" = "amountUSDmn",
     "Grant Amount Committed (USD mn)" = "amountUSDmn",
-    "Total Disbursed" = "amountUSDmn"
+    "Total Disbursed" = "amountUSDmn",
+    "potential_duplication" = "potential_overlap_flag"
   )
   ctry_dat_analysis_formatted = ctry_dat_analysis[,keep,with=F]
   names(ctry_dat_analysis_formatted) = names(keep)
@@ -152,7 +153,8 @@ for(i in 1:nrow(loop_param_df)){
     "Total Disbursed",
     "Comment",
     "Press release/project website",
-    "Additional source"
+    "Additional source",
+    "potential_duplication"
   )
   ctry_dat_analysis_formatted = ctry_dat_analysis_formatted[,name_order,with=F]
   fwrite(ctry_dat_analysis_formatted, paste0("output/",country,"_formatted.csv"))
