@@ -140,7 +140,12 @@ for(i in 1:nrow(loop_param_df)){
     "potential_duplication" = "potential_overlap_flag",
     "Flow ID" = "id"
   )
-  ctry_dat_analysis_formatted = ctry_dat_analysis[,keep,with=F]
+  ctry_dat_analysis_formatted = subset(
+    ctry_dat_analysis,
+    (emergency_boundary!="Internal" | is.na(emergency_boundary)) &
+      (plan_boundary!="Internal" | is.na(plan_boundary))
+  )
+  ctry_dat_analysis_formatted = ctry_dat_analysis_formatted[,keep,with=F]
   names(ctry_dat_analysis_formatted) = names(keep)
   ctry_dat_analysis_formatted = merge(ctry_dat_analysis_formatted,wb_groupings,by="Country Code",all.x=T)
   ctry_dat_analysis_formatted[,c("Classification","Loan Amount Committed (USD mn)","Comment","Press release/project website","Additional source")] = NA
