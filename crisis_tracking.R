@@ -40,7 +40,7 @@ for(i in 1:nrow(loop_param_df)){
   ctry_dat$analysis_date = NA
   ctry_dat$analysis_date[which(ctry_dat$status=="commitment")] = ctry_dat$date[which(ctry_dat$status=="commitment")]
   ctry_dat$analysis_date[which(ctry_dat$status=="paid")] = ctry_dat$decisionDate[which(ctry_dat$status=="paid")]
-  ctry_dat$analysis_date[which(ctry_dat$status=="paid" & is.na(ctry_dat$decisionDate))] = ctry_dat$date[which(ctry_dat$status=="paid" & is.na(ctry_dat$decisionDate))]
+  ctry_dat$analysis_date[which(ctry_dat$status=="paid" & ctry_dat$decisionDate == "")] = ctry_dat$date[which(ctry_dat$status=="paid" & ctry_dat$decisionDate == "")]
   ctry_dat$analysis_date = anydate(ctry_dat$analysis_date)
   
   ctry_dat = subset(ctry_dat, analysis_date>=start_date & analysis_date<=end_date)
@@ -79,11 +79,35 @@ for(i in 1:nrow(loop_param_df)){
   
   ctry_dat$row.name = c(1:nrow(ctry_dat))
   
-  ctry_dat_analysis = subset(
-    ctry_dat,
-    destination_Emergency_name==emergency_name |
-      (destination_Emergency_name=="" & destination_Plan_name==appeal_name)
-  )
+  if(emergency_name!=""){
+    if(appeal_name!=""){
+      # Non blank appeal and emergency
+      ctry_dat_analysis = subset(
+        ctry_dat,
+        destination_Emergency_name==emergency_name |
+          (destination_Emergency_name=="" & destination_Plan_name==appeal_name)
+      )
+    }else{
+      # Blank appeal and non blank emergency
+      ctry_dat_analysis = subset(
+        ctry_dat,
+        destination_Emergency_name==emergency_name
+      )
+    }
+  }else{
+    if(appeal_name!=""){
+      # Non blank appeal and blank emergency
+      ctry_dat_analysis = subset(
+        ctry_dat,
+        destination_Plan_name==appeal_name
+      )
+    }else{
+      # Blank appeal and blank emergency
+      # Shouldn't happen
+      stop("You need at least one appeal or emergency")
+    }
+  }
+  
   ctry_dat_analysis$description_search_flag = FALSE
   remainder_rows = setdiff(c(1:nrow(ctry_dat)),ctry_dat_analysis$row.name)
   ctry_dat_remainder = ctry_dat[remainder_rows,]
@@ -113,7 +137,8 @@ for(i in 1:nrow(loop_param_df)){
     "Total Amount Committed (USD mn)" = "amountUSDmn",
     "Grant Amount Committed (USD mn)" = "amountUSDmn",
     "Total Disbursed" = "amountUSDmn",
-    "potential_duplication" = "potential_overlap_flag"
+    "potential_duplication" = "potential_overlap_flag",
+    "Flow ID" = "id"
   )
   ctry_dat_analysis_formatted = ctry_dat_analysis[,keep,with=F]
   names(ctry_dat_analysis_formatted) = names(keep)
@@ -154,7 +179,8 @@ for(i in 1:nrow(loop_param_df)){
     "Comment",
     "Press release/project website",
     "Additional source",
-    "potential_duplication"
+    "potential_duplication",
+    "Flow ID"
   )
   ctry_dat_analysis_formatted = ctry_dat_analysis_formatted[,name_order,with=F]
   fwrite(ctry_dat_analysis_formatted, paste0("output/",country,"_formatted.csv"))
