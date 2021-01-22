@@ -44,6 +44,9 @@ for(i in 1:nrow(loop_param_df)){
   ctry_dat$analysis_date = anydate(ctry_dat$analysis_date)
   
   ctry_dat = subset(ctry_dat, analysis_date>=start_date & analysis_date<=end_date)
+  ctry_tab = data.table(ctry_dat)[,.(amountUSD=sum(amountUSD,na.rm=T)),by=.(Donor)]
+  fwrite(ctry_tab, paste0("output/",country,"_aggregated.csv"))
+  write.xlsx(ctry_tab, paste0("output/",country,"_aggregated.xlsx"))
   
   ctry_dat$emergency_boundary = NA
   if(emergency_name!=""){
@@ -117,7 +120,7 @@ for(i in 1:nrow(loop_param_df)){
   ctry_dat_analysis = rbind(ctry_dat_analysis, ctry_dat_remainder)
   ctry_dat_analysis$row.name = NULL
   
-  ctry_dat_analysis$potential_overlap_flag = ctry_dat_analysis$Recipient.Organization %in% overlap_orgs
+  ctry_dat_analysis$potential_overlap_flag = ctry_dat_analysis$Donor %in% overlap_orgs
   ctry_dat_analysis$updatedAt = anydate(ctry_dat_analysis$updatedAt)
   fwrite(ctry_dat_analysis, paste0("output/",country,"_unformatted.csv"))
   write.xlsx(ctry_dat_analysis, paste0("output/",country,"_unformatted.xlsx"))
