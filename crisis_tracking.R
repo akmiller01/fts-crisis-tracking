@@ -6,6 +6,11 @@ lapply(list.of.packages, require, character.only=T)
 setwd("~/git/fts-crisis-tracking")
 
 fts = fread("fts.csv")
+org_types = fread("org_ids.csv")[,c("id","type")]
+org_types$id = as.character(org_types$id)
+setnames(org_types,"id","destination_Organization_id")
+setnames(org_types,"type","Recipient.Organization.Type")
+fts = merge(fts,org_types,by="destination_Organization_id",all.x=T)
 
 overlap_orgs = c(
   "African Development Bank",
@@ -41,6 +46,32 @@ for(i in 1:nrow(loop_param_df)){
   ctry_dat$analysis_date[which(ctry_dat$status=="commitment")] = ctry_dat$date[which(ctry_dat$status=="commitment")]
   ctry_dat$analysis_date[which(ctry_dat$status=="paid")] = ctry_dat$decisionDate[which(ctry_dat$status=="paid")]
   ctry_dat$analysis_date[which(ctry_dat$status=="paid" & ctry_dat$decisionDate == "")] = ctry_dat$date[which(ctry_dat$status=="paid" & ctry_dat$decisionDate == "")]
+  
+  ctry_dat$flow_date_type = NA
+  ctry_dat$flow_date_type[
+    which(ctry_dat$status=="commitment" & ctry_dat$date==ctry_dat$firstReportedDate)
+  ] = "reported date"
+  ctry_dat$flow_date_type[
+    which(ctry_dat$status=="commitment" & ctry_dat$date!=ctry_dat$firstReportedDate)
+  ] = "approved date"
+  ctry_dat$flow_date_type[
+    which(ctry_dat$status!="commitment" & ctry_dat$date==ctry_dat$decisionDate)
+  ] = "approved date"
+  ctry_dat$flow_date_type[
+    which(
+      ctry_dat$status!="commitment" &
+        ctry_dat$date!=ctry_dat$decisionDate &
+        (ctry_dat$date==ctry_dat$firstReportedDate & ctry_dat$decisionDate=="")
+      )
+  ] = "reported date"
+  ctry_dat$flow_date_type[
+    which(
+      ctry_dat$status!="commitment" &
+        ctry_dat$date!=ctry_dat$decisionDate &
+        !(ctry_dat$date==ctry_dat$firstReportedDate & ctry_dat$decisionDate=="")
+    )
+  ] = "disbursement date"
+  
   ctry_dat$analysis_date = anydate(ctry_dat$analysis_date)
   
   ctry_dat = subset(ctry_dat, analysis_date>=start_date & analysis_date<=end_date)
@@ -141,7 +172,9 @@ for(i in 1:nrow(loop_param_df)){
     "Grant Amount Committed (USD mn)" = "amountUSDmn",
     "Total Disbursed" = "amountUSDmn",
     "potential_duplication" = "potential_overlap_flag",
-    "Flow ID" = "id"
+    "Flow ID" = "id",
+    "Recipient Organisation" = "Recipient.Organization",
+    "Recipient Organisation Type" = "Recipient.Organization.Type"
   )
   ctry_dat_analysis_formatted = subset(
     ctry_dat_analysis,
@@ -188,7 +221,9 @@ for(i in 1:nrow(loop_param_df)){
     "Press release/project website",
     "Additional source",
     "potential_duplication",
-    "Flow ID"
+    "Flow ID",
+    "Recipient Organisation",
+    "Recipient Organisation Type"
   )
   ctry_dat_analysis_formatted = ctry_dat_analysis_formatted[,name_order,with=F]
   fwrite(ctry_dat_analysis_formatted, paste0("output/",country,"_formatted.csv"))

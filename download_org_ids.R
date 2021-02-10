@@ -7,8 +7,9 @@ setwd("~/git/fts-crisis-tracking")
 
 url = "https://api.hpc.tools/v1/public/organization"
 
-source_json = fromJSON(url)
+source_json = fromJSON(url,)
 
 org_data = source_json$data
+org_data$type = sapply(org_data$categories,`[[`,2)
 org_data$categories = NULL
 fwrite(org_data,"org_ids.csv")
