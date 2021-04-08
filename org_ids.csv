@@ -17,7 +17,6 @@ id,abbreviation,name,type
 2549,AASAA pool,AASAA pool,UN agency
 6616,ADF,Aayo Development Foundation,Private organization/foundation
 6687,ABAAD,ABAAD-Resource Center for Gender Equality,NGO
-11808,ABAMUS,ABAMUS ONG NATIONALE,NGO
 1559,AF,Abaseen Foundation,Private organization/foundation
 10754,ASISD,Abbasad Initiative for Sustainable Development,NGO
 11335,AIHC Inc.,ABBA's International Healing Center Inc.,NGO
@@ -80,6 +79,7 @@ id,abbreviation,name,type
 4827,ACLU,ACLU,NGO
 2838,ACM-YMCA,ACM-YMCA,NGO
 1045,ACRA,ACRA - Cooperazione Rurale in Africa e America Latina (Fondazione ACRA),NGO
+11872,AADO,Across African Development Organization,NGO
 5401,ACT Alliance,ACT Alliance,NGO
 8507,ACT/AFP,ACT Alliance / Act for Peace,NGO
 8548,ACT/AF,ACT Alliance / Amity Foundation,NGO
@@ -227,6 +227,7 @@ id,abbreviation,name,type
 11199,APES,Action pour la Promotion de l’Environnement Social,NGO
 9388,APROBES,Action pour la Promotion du Bien Etre Social,NGO
 6689,APSELPA,"Action pour la Protection de la Santé, de l'Environnement et la Lutte contre la Pénurie Alimentaire",NGO
+11960,APROSHAV,"Action pour la Protection de la Santé Humaine, Animale et Végétale",NGO
 7312,APRPE Soubana,Action Pour la Restauration et la Protection de l'Environnement Soubana,NGO
 1325,ABC,Action pour le Bien Etre Communautaire (ABC),NGO
 7138,Action Dev,Action pour le Développement,NGO
@@ -297,6 +298,7 @@ id,abbreviation,name,type
 10397,ADH,ADH,NGO
 4047,Admira,Admira,NGO
 5264,Adobe,Adobe,Private organization/foundation
+11934,ACUTE,Adolescent and Child Urgent Threat Evaluation South Sudan,NGO
 6804,AAC,Adopt-A-Camp,NGO
 3837,ADRA/HI,ADRA/HELP International,NGO
 3326,ADRA/SCDO,ADRA/SCDO,NGO
@@ -380,6 +382,7 @@ id,abbreviation,name,type
 1182,AMERA,Africa and Middle East Refugee Assistance,NGO
 1080,AAI,Africa Arise International,NGO
 3682,ACHM,Africa Centre for Holistic Management,NGO
+11927,ACSO,Africa Charity and Solidarity Organization,NGO
 10507,ACCN,Africa Child Care Nation,NGO
 1177,ACHI,Africa Child help Initiative,NGO
 8158,ADA,Africa Development Aid,NGO
@@ -405,6 +408,7 @@ id,abbreviation,name,type
 1390,ACOT,African Child Outreach Trust,Private organization/foundation
 9698,ACKAP,African Christian Kush Aid Program,NGO
 2239,ACHPR,African Commission Human and People's Rights,NGO
+11935,AFRICAN - CDR,African Community Agency for Development and Relief,NGO
 6766,ACDO,African Community Development Organization,NGO
 2324,ADEO,African Development and Emergency Organisation,NGO
 3787,AfDB,African Development Bank,Inter-governmental
@@ -455,7 +459,8 @@ id,abbreviation,name,type
 6953,Africa Relief Committee,Africa Relief Committee,NGO
 2909,ASAP,Africa Self Help Assistance Programme,NGO
 5776,AFTS,Africa Solidarity Trust Fund,Private organization/foundation
-10500,ASCDO,Africa Street Children Development Organization,NGO
+10500,ASCDO,Africa Stand for Children Development Organization,NGO
+11933,AWHO,Africa Women Help Organization,NGO
 1051,AWECO,Africa Women Welfare Committee,NGO
 9661,AYEO,Africa Youth Empowerment Organization,NGO
 9765,AFCOM,Afric'ompetence,NGO
@@ -496,6 +501,7 @@ id,abbreviation,name,type
 9502,ADEC,Agency for Development and Environmental Care (formerly Somali Volunteer for Development and Environmental Care),NGO
 7830,AHD Islamabad,Agency for Human Development (AHD) Islamabad,NGO
 8263,AHD Peshawar,Agency for Human Development (AHD) Peshawar,NGO
+11930,AHA,Agency for Humanitarian Aid,NGO
 5149,AHDAA,Agency for Humanitarian and Development Assistance for Afghanistan,NGO
 1560,APD,Agency for Peace and Development,NGO
 4711,ARD,Agency for Rehabilitation and Development,Private organization/foundation
@@ -568,18 +574,18 @@ id,abbreviation,name,type
 7503,AEDT,Aide aux Enfants Démunis de Tombouctou,NGO
 1256,AVDP,Aide aux Victimes de Désastres aux Philippines,NGO
 3918,Aide et Action,Aide et Action,NGO
-11769,AICRL,Aide Internationale de la Croix-Rouge luxembourgeoise,Red Cross/Red Crescent
 2488,AMI,Aide Médicale  Internationale (until 2010),NGO
 3946,AIDER,AIDER,NGO
 10258,AFA Colombia,Aid for Aids Colombia,NGO
 11004,AFA International,Aid for Aids International,NGO
-11864,AFA,Aid for Aids Peru,NGO
+11864,AFA Peru,Aid for Aids Peru,NGO
 11211,AFA Venezuela,Aid for Aids Venezuela,NGO
 4553,ACA,Aid for Central Africa,NGO
 10534,AEC,Aid for Effective Change,NGO
 3899,ANDP,Aid for Needy Development Programme,NGO
 5710,ARO,Aid for Refugees and Orphans,NGO
 11658,AISVIP,Aid Initiative to support Vulnerable and Idle people,NGO
+11921,ALO,AID LINK Organization,NGO
 10598,AI SSD,Aid Link South Sudan,NGO
 5516,Aidmatrix,Aidmatrix,Private organization/foundation
 524,ARARD,Aid Relief Agency for Reintegration and Development (formerly Aweil Relief Agency for Reintegration and Development),NGO
@@ -778,6 +784,7 @@ id,abbreviation,name,type
 6251,ACDES,"Alliance Coopérative de Développement, d'Entraide et de Solidarité",NGO
 121,ADT,Alliance Development Trust,Private organization/foundation
 8942,AFAA,Alliance For Action Aid,NGO
+11944,ACD,Alliance for Community Development,NGO
 9191,ACTION,Alliance for Community Transformation  Initiative and Organisation Network,NGO
 9336,ACLAB,Alliance for Cooperation and Legal Aid Bangladesh,NGO
 1937,ALIMA,Alliance for International Medical Action,NGO
@@ -798,6 +805,7 @@ id,abbreviation,name,type
 9298,APWS,All Pak Welfare Society,NGO
 2717,ASHA,All Sanghar Handicap Association,NGO
 1646,Allstate Foundation,Allstate Foundation,Private organization/foundation
+11896,ASP,All Survivors Project,Private organization/foundation
 9957,ATO,Alltogether Organization,NGO
 7305,R2P,"All-Ukrainian Charitable Foundation ""Right to Protection""",NGO
 7086,CWBF,All-Ukrainian Charity “Child Well-Being Fund Ukraine”,NGO
@@ -1062,7 +1070,7 @@ id,abbreviation,name,type
 484,Arab RC/RC,Arab Red Crescent and Red Cross Organization,Red Cross/Red Crescent
 505,ARIJ,Arab Reporters for Investigative Journalism,NGO
 11452,ARCPA,Arab Resource Center for Popular Arts,NGO
-1141,AWA,Arab Women Association,NGO
+1141,AWO,Arab Women Organization,Inter-governmental
 4179,ARDO,Aragti Relief and Development Organization,NGO
 8937,ARU,Arakan Rohingya Union,NGO
 1794,Aramark,Aramark,Private organization/foundation
@@ -1201,7 +1209,6 @@ id,abbreviation,name,type
 11837,Asovenchile,Asociación Venezolana en Chile,NGO
 11172,ACOANA,Asociación Venezolana para la Conservación de Áreas Naturales,NGO
 11582,AVHEMOFILIA,Asociacion Venezolana Para la Hemofilia,NGO
-11603,AVH,Asociación Venezolana para la Hemofilia,NGO
 5932,ADBCSR,A Society of Development Building Capabilities Social Reconciliation,NGO
 11001,el Paso,Asosiación Civil el Paso,NGO
 8779,ASPEm,ASPEm,NGO
@@ -1341,10 +1348,12 @@ id,abbreviation,name,type
 3518,AFASDA,Association Femmes Soleil d'Haiti,NGO
 4095,AFUV,Association Femmes Unies pour la Vie (AFUV),NGO
 1486,AAR Japan,Association for Aid and Relief Japan,NGO
+11716,AJAP Nigeria,Association for a Progressive African Youth AJAP - Nigeria,NGO
 5079,ABKT,Association for Behavior and Knowledge Transformation,NGO
 3301,ABCD,Association for Better Community Development (ABCD),NGO
 10878,ASCOA,Association for Community Awareness,NGO
 7355,ACDKPK,Association for Community Development,NGO
+11895,UATAF-AFC,Association for Community Strengthening,NGO
 2732,CIC,"Association for Cooperation, Interchange and Culture",NGO
 7847,ADPSN,Association for Developing Persons with Special Needs,NGO
 447,AEPD,Association for Empowerment of Persons with Disabilities,NGO
@@ -1360,7 +1369,6 @@ id,abbreviation,name,type
 7252,AID,Association for Integration and Development,NGO
 11632,AMAN,Association For Mass Advancement Network,NGO
 3841,APCSN,Association for People's Cooperation between South and North Korea,NGO
-11716,AJAP,Association for progressive African youth AJAP-NIGERIA,NGO
 5207,APSA,Association for Promoting Social Action,Private organization/foundation
 11193,ARFH-Burundi,Association for Reproductive and Family Health - Burundi,NGO
 10871,ARAD-CAM,Association for Rural Access to Development Cameroon,NGO
@@ -1464,6 +1472,7 @@ id,abbreviation,name,type
 7840,APSP,Association Partage Santé Pacifique,NGO
 1757,APV,Association Persis Valais,NGO
 1452,APDRA,Association Pisciculture et Développement Rural,NGO
+11808,ABAMUS,Association pour la Bienpuissance et Appui Multisectoriel,NGO
 10629,ASNUTRIT,Association pour la bonne Nutrition au Tchad,NGO
 214,ADEPAE,Association pour la Coopération Technique et au Développement,NGO
 9611,ACHDR,Association pour l'Action Humanitaire et le Développement Durable,NGO
@@ -1528,6 +1537,7 @@ id,abbreviation,name,type
 10809,ASSOS SAHEL,Association pour le Suivi des Orphelins au Sahel,NGO
 891,AIEC-MS,"Association pour l'Information, l'Education et la Communication sur la Protection de l'Environnement et la Lutte contre la Pauvreté",NGO
 11702,OCEANE,Association pour l’orientation des Créateur d’entreprises avides de nouvelles perspective entrepreneuriales ,NGO
+11964,AJAP International,Association pour une Jeunesse Africaine Progressiste,NGO
 8175,PS Mali,Association Projets Solidaires,NGO
 4833,ASRAMES,Association Rég. d'Appro. en Médicaments Essentiels,NGO
 3851,ARCT,Association rwandaise des conseillers en traumatisme,NGO
@@ -1643,6 +1653,7 @@ id,abbreviation,name,type
 6335,Azat,Azat Foundation,NGO
 2783,Azerbaijan,"Azerbaijan, Government of",Government
 8042,APCD,Azhaar Palestine for Child Development,NGO
+11967,Azm and Saade,Azm and Saade Association,NGO
 7929,AZM,AZM Foundation for Development,NGO
 4191,Azza,Azza Women Association,NGO
 318,B2Gold,B2Gold,Private organization/foundation
@@ -1690,7 +1701,7 @@ id,abbreviation,name,type
 4089,Balkanactive van de gemeenten,Balkanactive van de gemeenten,NGO
 293,BDI,Balochistan Development Initiative,NGO
 6639,BEEJ,Balochistan Environmental and Educational Journey,NGO
-6368,BFD,Balochistan Foundation for Development,Private organization/foundation
+6368,BFD,Balochistan Foundation for Development,NGO
 6383,BRDS,Balochistan Rural Development Society,NGO
 4618,BRSP,Balochistan Rural Support Programme,NGO
 327,BSDP,Balochistan Social Development Program,NGO
@@ -1744,10 +1755,11 @@ id,abbreviation,name,type
 343,BHR,Basic Human Rights,NGO
 3529,Basic Needs,Basic Needs,NGO
 5923,BPBSDA,Basic Peace Building and Sustainable Development Association,NGO
+11954,BROD,Basic Rights Organization for Development,NGO
 9692,BST,Basic Services Trust,NGO
 9180,BASMA,Basma For Relief and Development,NGO
 11446,BSCA,Basma Society for Culture and Arts,NGO
-8094,Basmeh and Zeitooneh,Basmeh and Zeitooneh for Relief and Development - Gülümseme ve zeytin,NGO
+8094,B&Z,Basmeh and Zeitooneh for Relief and Development - Gülümseme ve zeytin,NGO
 7614,Basmet Amal,Basmet Amal for Cancer Care,NGO
 9066,BSS,Basmet Shabab Syria,NGO
 5726,BWT,Batool Welfare Trust,NGO
@@ -1799,7 +1811,7 @@ id,abbreviation,name,type
 2145,Benin RC,Benin Red Cross Society,Red Cross/Red Crescent
 7149,BNM,Benposta Nación de Muchachos,NGO
 7187,BROB,Bent Al-Rafedain Organization,NGO
-7349,BPDO,Bent-e-Hawa Peace and Development Organization,NGO
+7349,BPDONGO,Bent-e-Hawa Peace and Development Organization,NGO
 4275,BEPROD,BEPROD,NGO
 8325,Ber,Ber Charitable Social Development Society,NGO
 4573,Berkat,Berkat,NGO
@@ -1859,10 +1871,10 @@ id,abbreviation,name,type
 4270,BCCR,Bjerknes Centre for Climate Research,Private organization/foundation
 10816,BR,"BlackRock, Inc.",Private organization/foundation
 6607,BCO,Blady Charitable Organization,NGO
+11878,BCSO,Blending Community Service Organization,NGO
 2698,Blés du désert,Blés du désert,NGO
 4501,BHF,Blessing Hands Foundation,NGO
 7177,BWA,Blessing Welfare Association,NGO
-2585,BLLF,BLLF,NGO
 5661,Bloomberg,Bloomberg,Private organization/foundation
 3813,BCHADF,Blue Crescent Humanitarian Aid and Development Foundation,NGO
 5581,Blue Cross Foundation,"Blue Cross and Blue Shield of Minnesota Foundation, Inc.",Private organization/foundation
@@ -1893,6 +1905,7 @@ id,abbreviation,name,type
 10171,Bolloré USA,Bollore Logistics USA Inc.,Private organization/foundation
 10817,BG,Bolton Group,Private organization/foundation
 3437,BUSF,Bomberos Unidos Sin Fronteras,Private organization/foundation
+2585,BLLF,Bonded Labour Liberation Front - BLLF,NGO
 9740,BOFRAST,Bonglac Foundation for Research and Social Transformation,NGO
 8090,Bonyan,Bonyan (Bina Insan),NGO
 3387,Booz Allen Hamilton,Booz Allen Hamilton,Private organization/foundation
@@ -1910,7 +1923,6 @@ id,abbreviation,name,type
 6259,BAO,Bothoor Alkhaer Human Organization,NGO
 2982,Botswana,"Botswana, Government of",Government
 4872,Botswana RC,Botswana Red Cross Society,Red Cross/Red Crescent
-11730,Boukar Issoufou Mamadou Goni,Boukar Issoufou Mamadou Goni,NGO
 7402,Bousla,Bousla for Training and Innovation,NGO
 6290,BP Foundation,BP Foundation,Private organization/foundation
 4494,BRAC,BRAC,NGO
@@ -1920,14 +1932,14 @@ id,abbreviation,name,type
 1895,Brazil RC,Brazilian Red Cross,Red Cross/Red Crescent
 10638,BODEP,Break of Dawn Empowerment Program,NGO
 997,BPSC,BreastFeeding Promotion Support Consortium,NGO
-11639,BREEZES,BREEZES,NGO
+11639,Breezes,Breezes Organization for sustainable Development in Libya,NGO
 7818,BORDA,Bremen Overseas Research and Development Association,NGO
 1753,BD,Bridderlech Deelen,NGO
 7618,BOL,Bridge Of Life,NGO
 1799,Bridgestone ,Bridgestone Group,Private organization/foundation
 6191,Brigadas Internacionales de Paz,Brigadas Internacionales de Paz,NGO
 4041,BES,Bright Educational Society,NGO
-2133,BFO,Bright Future Organization,Private organization/foundation
+2133,BFS,Bright Future Society,NGO
 11377,BSDSB,Bright Star Development Society Balochistan,NGO
 11607,BEU,Brindando Esperanza Universal,NGO
 5540,Brink's Company,Brink's Company,Private organization/foundation
@@ -1971,7 +1983,7 @@ id,abbreviation,name,type
 1316,Bundesanstalt Technisches Hilfswerk,Bundesanstalt Technisches Hilfswerk,NGO
 10305,BEH,Bündnis Entwicklung Hilft,NGO
 7677,BSCA,Bunia Social Charities Association,NGO
-11774,Bunyad literacy and community organization,Bunyad literacy and community organization,NGO
+11774,Bunyad,Bunyad Literacy and Community Council,NGO
 3110,BAAD,BUREAU D'APPUI ET D'ACCOMPAGNEMENT AU DEVELOPPEMENT (BAAD),NGO
 11810,BASE,Bureau d'Appui Santé et Environnement,NGO
 7260,BADES,Bureau d'Assistance pour le Développement Economique et Social,NGO
@@ -2082,6 +2094,7 @@ id,abbreviation,name,type
 2910,CDES,Career Development Education Support,NGO
 9258,CARE Ethiopia,CARE Ethiopia,NGO
 6486,CCOSS,Care for Children and Old Age in South Sudan,NGO
+2779,CCDO,Care for Community Development Organization,NGO
 10616,CfHO,Care for Humanity Organization,NGO
 10280,CFL,Care for Life,NGO
 9139,CFL,Care For Life Mission,NGO
@@ -2126,7 +2139,7 @@ id,abbreviation,name,type
 8453,Caritas Australia,Caritas Australia,NGO
 2036,Caritas Austria,Caritas Austria,NGO
 9250,Caritas Bangladesh,Caritas Bangladesh,NGO
-11588,CARITAS BARQUISIMETO,CARITAS BARQUISIMETO,Private organization/foundation
+11588,Cáritas Barquisimeto,Cáritas Barquisimeto,NGO
 6988,Caritas Bolivia,Caritas Bolivia,NGO
 9882,Caritas Brazil,Caritas Brazil,NGO
 2231,CARITAS BUKAVU,CARITAS BUKAVU,NGO
@@ -2135,7 +2148,7 @@ id,abbreviation,name,type
 4262,CARITAS BUTEMBO,CARITAS BUTEMBO,NGO
 9223,Caritas Cameroun,Caritas Cameroun,NGO
 495,Caritas DPO-CDTY,Caritas Catholic Diocese of Tombura and Yambo,NGO
-8506,CARITAS/CRS,CARITAS / Catholic Relief Services,NGO
+8506,CARITAS/CRS,CARITAS / Catholic Relief Services,Other
 1171,Caritas Centrafricaine,Caritas Centrafricaine,NGO
 10739,Caritas Bouar,Caritas Centrafricaine - Bouar,NGO
 6866,Caritas Chad,Caritas Chad,NGO
@@ -2174,7 +2187,7 @@ id,abbreviation,name,type
 7027,CM,Caritas Mbaiki,NGO
 3337,CARITAS Mbandaka,CARITAS Mbandaka,NGO
 5213,CARITAS MBUJIMAYI,CARITAS MBUJIMAYI,NGO
-3350,Caritas/MCC,Caritas/MCC,NGO
+3350,Caritas/MCC,Caritas/MCC,Other
 10308,Caritas Pemba,Caritas Mozambique - Pemba,NGO
 6215,Caritas Netherlands,Caritas Netherlands,NGO
 8559,Caritas New Zealand,Caritas New Zealand,NGO
@@ -2240,7 +2253,6 @@ id,abbreviation,name,type
 4822,CCA,CCA,NGO
 2778,CCBN,CCB Network,NGO
 4955,CCD,CCD,NGO
-2779,CCDO,CCDO,NGO
 5712,Cchin HR Organization,Cchin HR Organization,NGO
 4592,CDACLP,CDA Collaborative Learning Projects. Inc.,Private organization/foundation
 6050,CDCAP,CDCAP - Burkina Faso,NGO
@@ -2287,6 +2299,7 @@ id,abbreviation,name,type
 2109,CEJIL,CENTER FOR JUSTICE AND INT. LAW,NGO
 2869,CLD,Center for Life and Development,NGO
 1475,CMBM,Center for Mind Body Medicine,NGO
+11918,CPA,Center for Peace and Advocacy,NGO
 7845,CPCRS-UoD,Center for Peace and Conflict Resolution Studies - University of Duhok,Private organization/foundation
 10749,CEPROWAG,Center for Protection of Women and Girls,NGO
 10916,CEREDRUP,"Center for Research, Education and Resources Distribution to the Rural and Underprivileged People",NGO
@@ -2320,6 +2333,7 @@ id,abbreviation,name,type
 5527,CMCF,Central Minnesota Community Foundation,Private organization/foundation
 7971,CRADO,Central Relief Action and Development Organization,NGO
 4164,Central Social,Central Social,NGO
+11957,CBK,Centre Baho Kibondo,Private organization/foundation
 3158,CECI,Centre canadien d'étude et de coopération internationale (CECI),NGO
 11529,CAFID,Centre d’Accompagnement des Filles Désoeuvrées,NGO
 2244,CAD,Centre d'action pour le dévéloppement,NGO
@@ -2360,7 +2374,6 @@ id,abbreviation,name,type
 611,CSSI,Centre de Support en Santé Internationale,NGO
 620,CECI-BF,Centre d'étude et coopération internationale [BF],NGO
 6653,CEATS,Centre d'Etude et d'Appui-conseil en Travail Social,NGO
-11777,CECI,Centre d'Etude et de Coopération Internationale,NGO
 1064,CESAO-PRN,Centre d’Etudes Economiques et Sociales de l’Afrique de l’Ouest - Pôle Régional Niger,NGO
 9389,CENEAS,Centre d'Etudes et d'Actions Sociales,NGO
 1050,CEFM,Centre d'Excellence des Femmes de Man de l'ONG IFS,NGO
@@ -2378,6 +2391,7 @@ id,abbreviation,name,type
 10880,CCREAD-Cameroon,Centre for Community Regeneration and Development,NGO
 11441,COUNSENUTH,"Centre for Counselling, Nutrition and Health Care",NGO
 3895,CEDE,Centre for Democratic Empowerment,NGO
+11911,CDR,Centre for Development and Reseach,NGO
 7064,CEDS,Centre for Emergency and Development Support,NGO
 6281,CHEER,"Centre for Health, Education and Economic Relief",NGO
 4709,CHD,Centre for Humanitarian Dialogue,Private organization/foundation
@@ -2425,8 +2439,7 @@ id,abbreviation,name,type
 11011,CAM,Centro de Atendimento ao Migrante,NGO
 10966,CDDH Guarulhos,Centro de Defesa dos Direitos Humanos de Guarulhos,NGO
 11613,CEDISUC,Centro de Desarrollo Integral Sucre,NGO
-11574,Centro de Desarrollo social,Centro de Desarrollo Social,NGO
-11207,CEDISUC,Centro de Desarrollo Sucre Integral,NGO
+11574,CEDESO,Centro de Desarrollo Social,NGO
 9944,CSMM,"Centro de Documentación en Derechos Humanos “Segundo Montes Mozo S.J.” (CSMM), Plataforma Interamericana de Derechos Humanos, Democracia y Desarrollo (PIDHDD)",NGO
 11213,CEDESEX,Centro de Estudios de Derechos Sexuales y Reproductivos,NGO
 5997,CERAI,Centro de Estudios Rurales y de Agricultura Internacional,NGO
@@ -2452,8 +2465,7 @@ id,abbreviation,name,type
 10810,CCRC,Century Consulting and Research Center,NGO
 7664,"Cera Products, Inc","Cera Products, Inc",Private organization/foundation
 9764,CAPEH,Cercle d'Appui pour la protection des Enfants en Haiti,NGO
-11703,CRDD,CERCLE DE REFLEXIONS ET D'ACTIONS POUR UN DEVELOPPEMENT DURABLE,NGO
-11722,Cercle de Réflexions et d'Actions pour un Développement Durable	CRDD - CI GABAN MATASSA,Cercle de Réflexions et d'Actions pour un Développement Durable,NGO
+11722,CRDD - CI GABAN Matassa,Cercle de Réflexions et d'Actions pour un Développement Durable - CI GABAN Matassa,NGO
 8163,Mission CLARITE,"Cercle des Chrétiens pour la promotioin des Louanges, l'Adoration, le Réveil, l'Intercession, le Témoignage et l'Evangélisation",NGO
 7230,CHAILD,Cercle Humanitaire d'Appui aux Initiatives Locales de Développement,NGO
 1191,CJAD,Cercles des Jeunes pour l'Appui au Développement,NGO
@@ -2470,7 +2482,7 @@ id,abbreviation,name,type
 4280,Chaîne du Bonheur,Chaîne du Bonheur,Private organization/foundation
 197,CHAINES,CHAINES,NGO
 6226,KADER,Chaldean-Assyrian International Humanitarian Organization,NGO
-6448,CWF,Chand Welfare Foundation,Private organization/foundation
+6448,CWF,Chand Welfare Foundation,NGO
 1549,CAA,Change Agency Association Yambio,NGO
 9042,CAO,Change Agent Organization,NGO
 9681,CSHA,Change In Society Health Aid,NGO
@@ -2556,8 +2568,10 @@ id,abbreviation,name,type
 7879,Hurrass,Child Protection Network,NGO
 50,CPS,Child Protection Society,NGO
 7291,CRO,Child Rehabilitation Organization,NGO
+11902,CRSF,Child Relief and Support Fund,NGO
 810,CASS,Children Aid South Sudan,NGO
 10653,CWF-SS,Children and Women Foundation,NGO
+11906,CWHO,Children and Women Hope Organization,NGO
 10554,CYESS,Children and Youth Empowerment South Sudan,NGO
 2432,CAP,Children Assistance Programme,NGO
 10852,CCCL,Children Cancer Centre of Lebanon,NGO
@@ -2579,7 +2593,7 @@ id,abbreviation,name,type
 4076,CEHN,Children's Environmental Health Network,NGO
 1423,CFNO,Children's Fund of North Ossetia,NGO
 1424,CFS,Children's Fund of Stavropol,NGO
-6379,CGN-P,"Children's Global Network, Pakistan (Guarantee) Limited",NGO
+6379,CGNPk,Children's Global Network Pakistan,NGO
 5316,Children's Home Society of Minnesota,Children's Home Society of Minnesota,NGO
 225,CIFF,Children's Investment Fund Foundation,Private organization/foundation
 3169,CLAN,Children's Legal Action Network,NGO
@@ -2634,6 +2648,7 @@ id,abbreviation,name,type
 2857,CMA,Christian Mission Aid,NGO
 8038,CMI-SS,Christian Missionaries Initiative Organization - South Sudan,NGO
 6472,CMD,Christian Mission for Development,NGO
+11919,CNPD,Christian Network For Peace and Development,NGO
 4944,CORD,Christian Outreach Relief and Development,NGO
 6465,CPT,Christian Peacemaker Teams,NGO
 2011,CRADA,Christian Recovery and Development Agency,NGO
@@ -2644,6 +2659,7 @@ id,abbreviation,name,type
 10054,CRUDAN,Christian Rural and Urban Development Association of Nigeria,NGO
 6753,CSI,Christian Solidarity International,NGO
 7661,CUEED,"Christians United for Evangelism, Education and Development",NGO
+11879,CYDAI,Christian Youth Development Agency International,NGO
 510,CMCM,Christ Mission Continuous Ministry,NGO
 3210,Christoffel-Blindenmission,Christoffel-Blindenmission,NGO
 2908,CB,Christusträger Bruderschaft,NGO
@@ -2726,7 +2742,7 @@ id,abbreviation,name,type
 5116,CACLAZ,Coalition Against Child Labour in Zimbabwe,NGO
 9541,CAS,"Coalition Anti Sida , promotion and defence LGBTQ Rights",NGO
 11724,CONAFE NIGER,coalition des ONG africaines en faveur des enfants,NGO
-9676,Conafe Niger,Coalition d'ONG africaines en faveur des enfants (Niger),NGO
+9676,CONAFE Niger,Coalition des ONG africaines en faveur des enfants - Niger,NGO
 3256,CED,Coalition for Educational Development,Private organization/foundation
 11811,CEPI,Coalition for Epidemic Preparedness Innovations,Private organization/foundation
 9312,CH,Coalition for Humanity South Sudan,NGO
@@ -2744,7 +2760,6 @@ id,abbreviation,name,type
 8933,COAST Trust,COAST Trust,NGO
 3319,Coca-Cola Company,Coca-Cola Company,Private organization/foundation
 956,Coca-Cola Foundation,Coca-Cola Foundation,Private organization/foundation
-11674,CARITAS Douala,CODAS-CARITAS DOUALA,Other
 8186,CCY,Codas Caritas Yagoua,NGO
 3728,CODEC,CODEC,Inter-governmental
 312,COFRA,COFRA,Private organization/foundation
@@ -2772,7 +2787,7 @@ id,abbreviation,name,type
 2116,CCBL,Colombia Campaign to Ban Landmines,NGO
 4839,Colombia,"Colombia, Government of",Government
 7872,Colombia Humanitarian Fund,Colombia Humanitarian Fund,Pooled fund
-11784,PAC,Colombian Civil Air Patrol,NGO
+11784,PAC,Colombian Civil Air Patrol,Private organization/foundation
 4777,Colombia RC,Colombian Red Cross Society,Red Cross/Red Crescent
 11105,Post-Conflict MPTF,Colombia Post-Conflict UN MPTF,UN agency
 5418,Coloplast A/S,Coloplast A/S,Private organization/foundation
@@ -2802,6 +2817,7 @@ id,abbreviation,name,type
 738,CSVVDHM,Comité de Solidarité avec les Victimes des Violations des Droits de l'Homme en Mauritanie,NGO
 9190,CODAS Caritas Garoua,Comité Diocésain de Développement des Activités Sociales et Caritas Garoua,NGO
 9116,CODAS Caritas-Yagoua,Comité Diocésain des Activités Soaciales et Caritative de Yagoua,NGO
+11674,CODAS Caritas Douala,Comité Diocésain des Activités Sociales – Caritas de l’Archidiocèse de Douala,NGO
 2406,CFSI,Comité Français pour la Solidarité,NGO
 10773,CIAUD Canada,Comité International pour l'Aide d'Urgence et le Développement,NGO
 8226,CDVT,Comité pour le Développement du Volontariat au Tchad,NGO
@@ -2847,11 +2863,10 @@ id,abbreviation,name,type
 8767,CAF - Action,Community Aid Frontiers - Action,NGO
 9733,CANO,Community Aid Network Organization,NGO
 1544,CFSI,Community and Family Services International,NGO
+1951,CAMP,Community Appraisal and Motivation Programme,NGO
 2092,CAMP,Community Appraisal & Motivation Program,NGO
-1951,CAP,Community Appraisal Programme,NGO
 11718,CAVP,Community Association for Vulnerable Persons,NGO
 5091,CARAVAN,Community Awareness Raising & Advocacy Ventures Around Needs,NGO
-6641,CARAVAN,Community Awareness Raising and Advocacy Ventures Around Needs,NGO
 7164,CBD-NGO Forum,Community Based Development Non Governmental Organization Forum,NGO
 8845,CBRA,Community Based Rehabilitation Association,NGO
 551,CBI,Community Bridge Initiative,NGO
@@ -2871,17 +2886,16 @@ id,abbreviation,name,type
 11663,CODERHI,Community Development and Reproductive Health Initiative,NGO
 7337,CDA,Community Development Association,NGO
 7317,CDC,Community Development Centre,NGO
+5731,CDC,Community Development Council,NGO
 7014,CODE,Community Development Empowerment,NGO
 6297,CDF,Community Development Foundation,NGO
 7447,CDI,Community Development Initiative,NGO
 10912,CODENET,Community Development Network Cameroon,NGO
 2823,CDNO,Community Development Network Organization Pakistan,NGO
-4956,CDO,Community Development Organization,NGO
 8220,CDNF,Community Development Organization Network Forum,NGO
 504,CDSS,Community Development Support Services,NGO
 4482,CDT,Community Development Trust,NGO
 8027,CEWI,Community Early Warning Initiative,NGO
-1553,CE,Community Empowerment,NGO
 3084,CEDA,Community Empowerment and Development Action,NGO
 5036,CEDO,Community Empowerment and Development Organization,NGO
 10722,CEPFoWY,Community Empowerment and Peace Building Foundation for Women and Youth,NGO
@@ -2889,6 +2903,7 @@ id,abbreviation,name,type
 11488,CEWI,Community Empowerment and Wealthy Initiative ,NGO
 9724,CECO,Community Empowerment Charitable Organization,NGO
 7895,CEFoRD,Community Empowerment for Rehabilitation and Development,NGO
+11953,CEN, Community Empowerment Network,NGO
 815,COFAS,Community Fight Against GBV and HIV/AIDS,NGO
 7450,CFDI,Community Focus for Development Initiative,NGO
 9555,COPEF,Community for Peace Foundation,NGO
@@ -2916,6 +2931,7 @@ id,abbreviation,name,type
 10907,COMINSUD,Community Initiative for Sustainable Development Cameroon,NGO
 11747,CIDP,Community Initiatives for Development in Pakistan,NGO
 523,CINA,Community in Need Aid,NGO
+11931,CNO,Community In Need Organization,NGO
 7117,CIDI,Community Integrated Education and Development Initiative,NGO
 9729,CLAC,Community Last Cry,NGO
 2269,CLIDE Consultancy,Community Livestock Integrated Development Consultancy,NGO
@@ -2931,22 +2947,25 @@ id,abbreviation,name,type
 11492,CORDO,Community Rehabilitation & Development Organization,NGO
 5019,CRDO,Community Research and Development Organization,NGO
 9318,CRESA,Community Resilience and Emergency Support Aid,NGO
+11925,CRDC,Community Resilient and Development Consortium,NGO
 10652,CRD,Community Response for Development,NGO
 7353,CRP,Community Rise Programme,NGO
 6265,SMC Federation,Community School Management Committee of Nepal,NGO
 10000,CSP,Community Services Programme,NGO
 9225,COSDA,Community Settlment and Development Action,NGO
-6447,CSWC,Community Social Welfare Council,NGO
+11917,CSI,Community Support Initiative,NGO
 4116,CSDO,Community Sustaining Development Organization,NGO
 3135,CTDT,Community Technology Development Trust,NGO
 3746,CTCCM,Community Training Centre and Crisis Management,NGO
 1854,CTF,Community Trust Fund,NGO
-5052,CUP,Community Uplift Program Pakistan,NGO
+5052,CUP,Community Uplift Program,NGO
 10753,CWYDI,Community Women and Youth Development Initiative,NGO
+11937,CYDA,Community Youth for Development Aid,NGO
 7821,COMSOM,COMORAD Somalia,NGO
 8729,"Comoros, Government of","Comoros, Government of",Government
 2149,Comoros RC,"Comoros Red Crescent, The",Red Cross/Red Crescent
 4380,Compact AS,Compact AS,Private organization/foundation
+11912,CA,Compassion Agency,NGO
 5087,COMIT,Compassion International Trust,NGO
 11841,Compassiva,Compassiva,NGO
 7121,Compass,Compass South Sudan,NGO
@@ -2972,6 +2991,7 @@ id,abbreviation,name,type
 525,CONEMUND,CONEMUND,NGO
 11225,Consorven,Confederación Sordos de Venezuela,NGO
 2009,CCC,Confident Children out of Conflict,NGO
+11885,CRRO,Confident Relief and Rehabilitation Organisation,NGO
 6090,CDI,Conflict Dynamics International,Private organization/foundation
 8790,CTD,Conflict Transformation for Development,NGO
 9747,COSAPAD,"Congence pour la Sécurité Alimentaire et Nutritionnelle, la Paix et le Développement Durable",NGO
@@ -3000,7 +3020,8 @@ id,abbreviation,name,type
 2686,Consolata Sisters,Consolata Sisters,Private organization/foundation
 11593,ASG-BBI,Consortium Association Sini Gnassigui - Burkine Bi,NGO
 2655,CARDI,Consortium for Assistance to Refugees and the Displaced in Indonesia,NGO
-1289,C-SAFE ,"Consortium for Southern Africa Food Security Emergency (World Vision, CARE, CRS, & ADRA)",NGO
+1289,C-SAFE ,"Consortium for Southern Africa Food Security Emergency (World Vision, CARE, CRS, & ADRA)",Other
+11922,CMC,Consortium Medical Care,NGO
 5787,CBHA,Consortium of British Humanitarian Agencies,NGO
 809,Consortium of Dutch NGOs,Consortium of Dutch NGOs,NGO
 3964,CHA,Consortium of Humanitarian Agencies,NGO
@@ -3046,10 +3067,10 @@ id,abbreviation,name,type
 7348,COOIAP,Coopérative Internationale de l'Armature de Pêche,NGO
 4018,CLUSA,Cooperative League of the USA,NGO
 5364,CESVI,Cooperazione E Sviluppo - CESVI,NGO
-11785,COOPI,COOPERAZIONE INTERNAZIONALE ,NGO
 4309,COOPI,Cooperazione Internazionale - COOPI,NGO
 3218,CISS,Cooperazione Internazionale Sud Sud,NGO
 4667,COSPE,Cooperazione per lo Sviluppo dei Paesi Emergenti - COSPE,NGO
+11955,COIPRODEN,Coordinadora de Instituciones Privadas Pro las Niñas,NGO
 2693,CNRD,Coordinadora Nacional para la Reduccion de Desastres,Government
 4696,CANGO,Coordinated Assembly of Non-Governmental Organsiations,NGO
 4977,CASA,Coordinating Action on Small Arms,NGO
@@ -3082,13 +3103,12 @@ id,abbreviation,name,type
 2070,COSV/MOVIMONDO,COSV/MOVIMONDO,NGO
 3386,CIV,"Cote d'Ivoire, Government of",Government
 1037,CITI,Cote d’Ivoire Transition Initiative,NGO
-5731,CCD,Council for Community Development,NGO
 1742,CIC,Council of Churches,Private organization/foundation
 2176,CEB,Council of Europe Development Bank,Inter-governmental
 8537,TCG - RK,Council of Governors - Rotary Korea,Private organization/foundation
 444,CSU,Counselling Services Unit,NGO
 3795,CPI,Counterpart International,NGO
-5947,Courage,Courage Foundation,NGO
+5947,CDF,Courage Development Foundation,NGO
 11349,COVID-19 Humanitarian Thematic Fund,COVID-19 Humanitarian Thematic Fund,UN agency
 4106,CPAU,CPAU,NGO
 4023,CPH,CPH - Comité Protos Haïti,NGO
@@ -3110,7 +3130,6 @@ id,abbreviation,name,type
 4917,Croatia,"Croatia, Government of",Government
 3392,Croatia RC,Croatian Red Cross,Red Cross/Red Crescent
 1762,"Crocs, Inc.","Crocs, Inc.",Private organization/foundation
-11626,Croix-Rouge Burkina,Croix-Rouge Burkina,Red Cross/Red Crescent
 2959,CRT,Croix-Rouge du Tchad,Red Cross/Red Crescent
 6909,CR Katanga,Croix Rouge Katanga,NGO
 4885,CRC,Croix Rouge RDC,Red Cross/Red Crescent
@@ -3118,9 +3137,8 @@ id,abbreviation,name,type
 420,CICO,Cross International Cathoilc Outreach,Private organization/foundation
 1829,CA,Crown Agents,Private organization/foundation
 6889,CRRDC-TD,CRRDC-TD,NGO
-4946,CRS and Private Foundations,CRS and Private Foundations,NGO
+4946,CRS and Private Foundations,CRS and Private Foundations,Private organization/foundation
 2426,CRS / CARE,CRS / CARE,NGO
-11789,CRC,Cruz Roja Colombiana,Red Cross/Red Crescent
 11273,CRV-GDTO,Cruz Roja Venezolana - Seccional Apure Subcomite Guasdualito,Red Cross/Red Crescent
 11272,CRV-SF,Cruz Roja Venezolana - Seccional Falcón,Red Cross/Red Crescent
 2124,C & S Wholesale Grocers,C & S Wholesale Grocers,Private organization/foundation
@@ -3171,14 +3189,14 @@ id,abbreviation,name,type
 1169,DDO,Daleel Development Organisation,NGO
 9819,Dalit,Dalit NGO,NGO
 3058,DHD,Dallaalo Humanitarian Development,NGO
-6642,DAMAN,DAMAN,NGO
+6642,DAMAN,Daman Foundation,NGO
 6790,DH,Damascene House,NGO
 801,DPP,Damascus People Participation,NGO
 9123,DHCBI,Damnaish Human Capacity Building Initiative,NGO
 3466,DACHICARE,Dananai Child Care Organisation,NGO
 9124,Danaya So,Danaya So (Maison de la Confiance),NGO
 3535,Danchurchaid / Danish De-mining Group,Danchurchaid / Danish De-mining Group,NGO
-6312,DANESH,DANESH,NGO
+6312,Danesh,Danesh Organization,NGO
 9956,DRD,Dan for Relief and Development Association,NGO
 4143,Danhiko Project,Danhiko Project,NGO
 2460,DHSPS,Danidas Health Sector Programme Support,NGO
@@ -3305,7 +3323,7 @@ id,abbreviation,name,type
 4389,DWHH,Deutsche Welthungerhilfe e.V. (German Agro Action),NGO
 7449,DSV,Deutsch-Syrischer Verein zur Förderung der Freiheiten un Menschenrechte e.V,NGO
 5885,DEV+,DEV+,NGO
-2827,DevCon,Devcon,NGO
+2827,DevCon,DevCon,NGO
 6798,DAN,Development Action Network,NGO
 10540,DAYAX NGO,Development Agency Youth Association Humanitarian Organization,NGO
 9436,DARO,Development Aid and Relief Organization,NGO
@@ -3317,6 +3335,7 @@ id,abbreviation,name,type
 4409,DAI,Development Alternatives Inc.,Private organization/foundation
 7259,DAO,Development and Ability Organization,NGO
 11688,DES,Development and Empowerment Society,NGO
+11875,DECO,Development and Environmental Conservation Organization,NGO
 8084,DHAid,Development and Humanitarian Aid Foundation,NGO
 2628,DHSA,Development and Humanitarian Services for Afghanistan,NGO
 7530,DICAC,Development and Inter-Church Aid Commission,NGO
@@ -3362,7 +3381,7 @@ id,abbreviation,name,type
 6192,DF,Dialog Forening,NGO
 3829,Dialog International e.V.,Dialog International e.V.,NGO
 9878,DD,Diálogo Diverso,NGO
-7415,DRI,Dialogue and Research Initiative,Private organization/foundation
+7415,DRI,Dialogue and Research Institute,Private organization/foundation
 6961,DF,Dialogue (Fiji) Limited,NGO
 3469,DSHZT,Dialogue on Shelter for the Homeless in Zimbabwe Trust,NGO
 2943,DPAP,Diamer Poverty Alleviation Programme,NGO
@@ -3421,6 +3440,7 @@ id,abbreviation,name,type
 7093,DTL,Disaster Tech Lab,Private organization/foundation
 6262,DWR,Disaster Waste Recovery,NGO
 1759,Discover Financial Services,Discover Financial Services,Private organization/foundation
+11972,Discovery,Discovery Rise,Private organization/foundation
 3152,Dissimilis kult.og komp.senter,Dissimilis kult.og komp.senter,NGO
 1420,Distribuidora Ambiente,Distribuidora Ambiente,Private organization/foundation
 4434,Div. Assoc.,Div. Assoc.,NGO
@@ -3466,7 +3486,7 @@ id,abbreviation,name,type
 3293,DAI,Dorcas Aid International,NGO
 5365,CRESED,DORCAS ESPERANCE - Centre de réinsertion sociale d'enfants en détresse,NGO
 6595,DOSHA,Dosha Organization for Social Development,NGO
-2142,DDF,Dosti Development Foundation,Private organization/foundation
+2142,DDF,Dosti Development Foundation,NGO
 6242,DOC,Dost Organization for Coexistence,NGO
 1831,DWF,Dost Welfare Foundation,Private organization/foundation
 4241,Double Harvest,Double Harvest,Private organization/foundation
@@ -3475,6 +3495,7 @@ id,abbreviation,name,type
 1641,Dow Chemical Corporation,Dow Chemical Corporation,Private organization/foundation
 8108,DOZ,DOZ e. V.,NGO
 1535,D.P. Foundation,D.P. Foundation,NGO
+11920,DACO,Dream Alive Charity Organization,NGO
 2618,"Dr. Fresh, Inc","Dr. Fresh, Inc",Private organization/foundation
 9036,HCCD-PS,Dr. Haider Abdel Shafi Center for Culture and Development,NGO
 656,DHAF,Dr. Hawa Abdi Foundation,NGO
@@ -3531,6 +3552,7 @@ id,abbreviation,name,type
 789,EVE,Eau Vie Environnement,NGO
 5955,Eau Vive,Eau Vive,NGO
 3756,SEM,Eaux de Marseille (Société des),Private organization/foundation
+11973,Eawag,Eawag - Swiss Federal Institute of Aquatic Science and Technology,Private organization/foundation
 7424,EDF,Ebaa Development Foundation,NGO
 5603,eBay,eBay Foundation,Private organization/foundation
 9419,EMI,Eben - Ezer Ministry International,NGO
@@ -3582,6 +3604,7 @@ id,abbreviation,name,type
 11779,EFA Cameroon,"Education Fight Aids, Cameroon",NGO
 6599,EHSAR,Education Health Social Awareness and Rehabilitation,NGO
 1932,EHSAR Foundation,"Education, Health, Social Awareness and Rehabilitation Foundation",NGO
+6435,EHSAR Foundation,Education Health Social Awareness & Rehabilitation Foundation,NGO
 11809,ESEDD,Education Santé et Environnement pour le Développement,NGO
 10774,ONG EU,Education Universelle,NGO
 8193,MIDAD,Education Without Borders / MIDAD,NGO
@@ -3639,6 +3662,7 @@ id,abbreviation,name,type
 3796,El Salvador,"El Salvador, Government of",Government
 7832,SFDH,Elshera for Development,NGO
 3032,ESCO,Elsugya Charity Organization,NGO
+6840,Elvelah,El velah,NGO
 7384,WMRH,El-Wafa Rehabilitation Hospital,NGO
 5136,WSCR,El Wedad Society for Community Rehabilitation,NGO
 8971,ESA,Emaar Alsham Humanitarian Association,NGO
@@ -3678,6 +3702,7 @@ id,abbreviation,name,type
 10510,EK - SS,Empower Kids - South Sudan,NGO
 7482,ECW,Empowerment Center for Women,NGO
 10868,ECOCAM,Empowerment Corner Cameroon,NGO
+11907,EYA,Empower Youth Africa - EYA,NGO
 4017,ESF,Empress Shoken Fund,Private organization/foundation
 8031,EF,Enayah Foundation,NGO
 6922,ENDA,ENDA Mali,NGO
@@ -3719,6 +3744,7 @@ id,abbreviation,name,type
 9610,ERP,Environmental Rehabilitation Program,NGO
 6550,ERI,Environmental Resources Institute Pvt Ltd,Private organization/foundation
 6556,ENPHO,Environment and Public Health Organization,NGO
+11893,ECO Moçambique,Environment Childhood Organization Moçambique,NGO
 2852,EPS,Environment Protection Society,NGO
 8223,"Support environment problem with research,debates, communities mobilization and advocacy",Environnement et Société Cameroun,Private organization/foundation
 4215,EO,EO Metterdaad,Private organization/foundation
@@ -3778,7 +3804,7 @@ id,abbreviation,name,type
 4425,Ethiopia RC,Ethiopian Red Cross Society,Red Cross/Red Crescent
 3222,EBF,Eugene Bell Foundation,Private organization/foundation
 4230,EURASIA FOUNDATION,EURASIA FOUNDATION,Private organization/foundation
-6936,EU Regional Trust Fund in Response to the Syrian Crisis (Madad Fund),EU Regional Trust Fund in Response to the Syrian Crisis (Madad Fund),Inter-governmental
+6936,EU Madad Fund,EU Regional Trust Fund in Response to the Syrian Crisis (Madad Fund),Inter-governmental
 1512,Eurest Personalrestauranter AS,Eurest Personalrestauranter AS,NGO
 710,EMHRF,Euro-Mediterranean Foundation of Support to Human Rights Defenders,Private organization/foundation
 4498,EuronAid,EuronAid,NGO
@@ -3857,7 +3883,6 @@ id,abbreviation,name,type
 4407,FERO,Family Empowerment and Relief Organisation,NGO
 4279,FHI 360,Family Health International - FHI 360,NGO
 2132,FOMI,"Family Outreach International, Inc.",NGO
-2514,FPAP,Family Planning Association of Pakistan,NGO
 5927,FPOP,Family Planning Organization of the Philippines,NGO
 7918,FAD,Family Social Association for Development,NGO
 4868,FST,Family Support Trust,NGO
@@ -3887,7 +3912,7 @@ id,abbreviation,name,type
 9358,FKRF,Fasiuddin Khan Research Foundation,Private organization/foundation
 2526,FRDP,Fast Rural Development Programme,NGO
 2974,FDPO,Fathia Development and Peace Organization,NGO
-11077,FCA,Fathurahman Charitable Association,Private organization/foundation
+11077,FCA,Fathurahman Charitable Association,NGO
 5921,FAFWCO,Fatma Alzhra For Welfare and Childhood Organization,NGO
 7314,FAMI,Favour Africa Ministries International,NGO
 11470,FIDO,Fayyaa Integrated Development Organization,NGO
@@ -4024,7 +4049,7 @@ id,abbreviation,name,type
 1948,Fondation Le Berger,Fondation Le Berger,Private organization/foundation
 4521,FLRF,Fondation Luxembourgeoise Raoul Follereau,NGO
 458,FMMR,Fondation Meninos e Meninas de Rua,NGO
-6147,Fondation Mérieux,Fondation Mérieux,NGO
+6147,Fondation Mérieux,Fondation Mérieux,Private organization/foundation
 9445,FNGA,Fondation Nouvelle Grand'Anse,NGO
 5186,FOO,Fondation Orient Occident,Private organization/foundation
 5345,FPGL,Fondation Paul Gérin Lajoie,NGO
@@ -4036,6 +4061,7 @@ id,abbreviation,name,type
 6764,FRF,Fondation Raoul Follereau,Private organization/foundation
 3454,FROCSAH,Fondation Rocher Salut d'Haiti,Private organization/foundation
 11405,Fondation LABBE,Fondation Simone LABBE,Private organization/foundation
+11891,FS,Fondation STAMM,Private organization/foundation
 1914,FSD,Fondation Suisse pour le Déminage,NGO
 6568,FZT,Fondation Zanmi Timoun,NGO
 10169,Opera San Francesco Saverio,Fondazione “Opera San Francesco Saverio” CUAMM,NGO
@@ -4070,7 +4096,7 @@ id,abbreviation,name,type
 4967,FMR,Forced Migration Review,Private organization/foundation
 7168,FODESC,Force pour le Développement Social du Centre,NGO
 5453,Ford Foundation,Ford Foundation,Private organization/foundation
-6323,FFT,Foresight Foundation Trust,Private organization/foundation
+6323,FFT,Foresight Foundation Trust,NGO
 10830,FAP NGO,Forest and Agroforestry Promoters,NGO
 5430,Foresters,Foresters,Private organization/foundation
 3221,Forest for Peace,Forest for Peace,NGO
@@ -4079,7 +4105,7 @@ id,abbreviation,name,type
 737,forMVD,forMVD (pour une Mauritanie verte et démocratique),NGO
 9895,Foro Salud,Foro de la Sociedad Civil en Salud,NGO
 3255,Foro Femenino Ma Maeztu,Foro Femenino Ma Maeztu,NGO
-11651,FOCH,Foro ONG Humanitarias-Colombia,NGO
+11651,FOCH,Foro ONG Humanitarias - Colombia,NGO
 10240,Foro Penal,Foro Penal,NGO
 8048,FGYA,Forsan Al-Ghad Youth Association,NGO
 3630,FFI,Forsvarets forskningsinstitutt,Private organization/foundation
@@ -4139,6 +4165,7 @@ id,abbreviation,name,type
 2763,FHM,Four Homes of Mercy,NGO
 11421,FOWECAM,FOWECAM,NGO
 6168,FJMH,Foyer des Jeunes de Morne l'Hopital,Private organization/foundation
+11868,FBEH,Foyer du Bien-Etre de l'humanité,NGO
 3087,FMS,Foyer Maurice Sixto,NGO
 3413,FPDO,FPDO,NGO
 1764,FPL Group,FPL Group Foundation,Private organization/foundation
@@ -4179,7 +4206,7 @@ id,abbreviation,name,type
 7807,FWE,Friends of Waldorf Education,NGO
 9928,FWA,Friends Welfare Association Pakistan,NGO
 5963,FDO,Frontier Development Organization,NGO
-6451,Frontier Foundation,Frontier Foundation,Private organization/foundation
+6451,Frontier Foundation,Frontier Foundation,NGO
 8151,FORT,Frontier Organization for Reforms and Transformation,NGO
 5038,FPHC,Frontier Primary Health Care,NGO
 3051,FR,Frontiers Ruwad Association,NGO
@@ -4200,7 +4227,6 @@ id,abbreviation,name,type
 11537,Fundación Abbacol,Fundación Abba Colombia,NGO
 852,FACH,Fundación Acción Contra el Hambre,NGO
 11167,Agroinlaca,Fundación Agroinlaca,Private organization/foundation
-11612,AFA,Fundación AID FOR AIDS,NGO
 10994,Alas de Colibrí,Fundación Alas de Colibrí,NGO
 827,APS,"Fundación Alianza por Los Derechos, la Igualdad y  la Solidaridad Internacional",NGO
 3833,Amalaka,Fundación Amalaka,Private organization/foundation
@@ -4251,7 +4277,7 @@ id,abbreviation,name,type
 11151,Habitat LUZ,Fundación Hábitat LUZ,NGO
 7061,Fundación Halü,Fundación Halu Bienestar Humano,NGO
 11149,FH,Fundación Higea,Private organization/foundation
-11555,Fundación Hijas de los Sagrados Corazones,Fundación Hijas de los Sagrados Corazones,NGO
+11555,Fundación HH.SS.CC,Fundación Hijas de los Sagrados Corazones,NGO
 11581,HDB,Fundacion Huellas de Bondad,NGO
 10963,Huésped,Fundación Huésped,NGO
 11411,IBO,Fundación IBO,Private organization/foundation
@@ -4317,14 +4343,13 @@ id,abbreviation,name,type
 11382,FHRRDA,Fundamental Human Rights and Rural Development Association,NGO
 209,FIN,Fundamental Ideas Navigators,NGO
 11601,Fundamigos,Fundamigos H.L.P.,NGO
-11597,FUNDAMIGOS,FUNDAMIGOS H.L.P,NGO
 4566,FHAM,FUNDASAUN HARI’I AU-METAN (FHAM) [Fongtil Member],Private organization/foundation
 11018,FPC,Fundashon Famia Plania Curaçao,Inter-governmental
 10975,Salú pa Tur,Fundashon Salú pa Tur,Private organization/foundation
 10985,Stima,Fundashon Stima Curaçao,Private organization/foundation
 10983,Venex Curaçao,Fundashon Venex Curaçao,Private organization/foundation
 1425,FHA,Fund for Humanitarian Assistance to the Chechen Republic,NGO
-11589,FUNDHAMUJER,FUNDHAMUJER,Private organization/foundation
+11589,Fundhamujer,Fundhamujer,Private organization/foundation
 4957,FFO,Funksjonshemmedes fellesorganisasjon,Private organization/foundation
 9731,FAOS,Future Alive Organization Services,NGO
 7261,FDC,Future Development Commission,NGO
@@ -4472,6 +4497,7 @@ id,abbreviation,name,type
 8200,GASS,Global Aim South Sudan,NGO
 6158,GACL,Global Air Cargo and Logistics Ltd,Private organization/foundation
 5112,GAIN,Global Alliance for Improved Nutrition,Private organization/foundation
+11949,GAIPA,Global Alliance Innovation for Poverty Eradication Action,NGO
 10807,GCCS,Global Center on Cooperative Security,NGO
 595,Global Centre for the Responsibility to Protect,Global Centre for the Responsibility to Protect,NGO
 4205,GC,Global Centurion,NGO
@@ -4560,9 +4586,9 @@ id,abbreviation,name,type
 9999,Good Fingerprint,Good Fingerprint Organization,NGO
 539,GHA,Good Hope Africa,NGO
 10862,GHCH,Good Hope Charity Organization,NGO
-11717,GN Niger,GOOD NEIGHBORS,NGO
-8638,GNG,Good Neighbors Guatemala,NGO
-3046,Good Neighbours Inc,Good Neighbours Inc,NGO
+8638,GN Guatemala,Good Neighbors Guatemala,NGO
+3046,Good Neighbors,Good Neighbors Inc,NGO
+11717,GN Niger,Good Neighbors Niger,NGO
 5543,Goodrich Corporation,Goodrich Corporation,Private organization/foundation
 9177,GSF,Good Shepard Foundation,NGO
 8869,GCDAI,Goodwill Community Development and Awareness,NGO
@@ -4670,7 +4696,6 @@ id,abbreviation,name,type
 725,GARI,Groupement des Artisans ruraux d’INTADENE-GARI,NGO
 9185,ONG GARI,Groupement des Artisans Ruraux d'Intadeyné,NGO
 7341,GOD,Groupement des Opérateurs de Développement,NGO
-6840,GIE Elvelah,"Groupement d'interêt économique des coopératives ""El velah""",NGO
 5203,GIE,Groupement Ingenieria Estrella,Private organization/foundation
 5251,GDAP,Groupement pour le Developpement Agro Pastoral,NGO
 4169,GMI,Groupe Missionnaire International,NGO
@@ -4693,7 +4718,7 @@ id,abbreviation,name,type
 3515,Gruppo Abele,Gruppo Abele,NGO
 6194,GRT,Gruppo per le Relazioni Transculturali,NGO
 1379,GUS,Gruppo Umana Solidarieta,NGO
-3233,GVC,Gruppo Volontariato Civile,NGO
+3233,GVC,Gruppo Volontariato Civile (until 2018),NGO
 3802,GTZ / COPEMECO,GTZ / COPEMECO,NGO
 2659,"GTZ,MEMISA-COPED,OXFAM QUEBEC","GTZ,MEMISA-COPED,OXFAM QUEBEC",NGO
 2975,GUARDIANS,GUARDIANS,NGO
@@ -4706,7 +4731,7 @@ id,abbreviation,name,type
 5531,Gulf Coast Community Foundation of Venice,Gulf Coast Community Foundation of Venice,Private organization/foundation
 4346,GCC,Gulf Cooperation Council,Inter-governmental
 3884,GEO,Gulf Educational Organization,NGO
-2747,GM,Gulistan-e-Mazoreen,NGO
+2747,GMM,Gulistan-e-Mazoreen Mirpurkhas,NGO
 160,GLSG,Gulu Landmine Survivors Group,NGO
 2782,Guyana,"Guyana, Government of",Government
 4776,Guyana RC,Guyana Red Cross Society,Red Cross/Red Crescent
@@ -4808,13 +4833,13 @@ id,abbreviation,name,type
 6211,HCS,Haut Comité de Secours libanais,NGO
 8570,Have It Your Way Foundation,Have It Your Way Foundation,Private organization/foundation
 9226,HICC,Havilah International Christian Center,NGO
-2749,HAWA,HAWA,NGO
+2749,HAWA Energy,HAWA Energy,Private organization/foundation
 434,Hawaiian Electric Co.,Hawaiian Electric Co.,Private organization/foundation
 10498,HSHORO,Hawa Sheikh Oyaye Relief Organization,NGO
 9560,HABA,Hay’ada Horumarinta Bariga Afrika,NGO
 9416,Hayat,Hayat Center for Emergency Preparedness,NGO
 3620,Hayat Eldawa AlIslamia,Hayat Eldawa AlIslamia,NGO
-6440,Hayat,Hayat Foundation,Private organization/foundation
+6440,Hayat,Hayat Foundation,NGO
 9459,HCMCA,Hayfa Charitable Medical Centre Association,NGO
 1116,HDO,Hazrat Sultan Development Organization,NGO
 4508,HBN,HBN,NGO
@@ -4829,7 +4854,7 @@ id,abbreviation,name,type
 8931,HAA,Health Action Aid,NGO
 6277,HAI,Health Alliance International,NGO
 10267,SAWT,Health and Education Association for Development,NGO
-9890,HEDO,Health and Education Development Organization,NGO
+9890,HAEDO,Health and Education Development Organization,NGO
 9346,HAEFA,Health and Education for All,NGO
 2697,HEDS,Health and Environment Development Society,NGO
 2678,HHRI,Health and Human Rights Info,NGO
@@ -4852,9 +4877,9 @@ id,abbreviation,name,type
 663,HEAL,Health Education Agro-pastoral Liaison,NGO
 8269,HEADS,Health Education and Development Society,NGO
 1065,HEPSA,"Health Education and Professional Skills for Afghanistan, The",NGO
-3394,HERF,Health Education and Research Foundation,Private organization/foundation
-6435,HEISAR,Health Education Information Society for Awareness and Rehabilitation,NGO
+3394,HERF,Health Education and Research Foundation,NGO
 2025,HESSEP,Health Education Service Strengthening Extention Programme,NGO
+11871,HEF,Health Equity Foundation,NGO
 7495,Health Equity Initiatives Sdn Bhd,Health Equity Initiatives Sdn Bhd,NGO
 9640,HEFA,Health Foundation Africa,NGO
 351,Health Limited,Health Limited,NGO
@@ -4901,7 +4926,7 @@ id,abbreviation,name,type
 3790,HelpAge International,HelpAge International,NGO
 8621,HelpAge,HelpAge International UK,NGO
 4767,Helpage Programme,Helpage Programme - RD Congo,NGO
-2947,Help Aid,Help Aid Organization,NGO
+2947,HelpAid,HelpAid,NGO
 7442,HACO,Help And Care Organization,NGO
 6337,HDO,Help and Development Organization,NGO
 6808,HASDO,Help and Save Development Organization,NGO
@@ -4910,6 +4935,7 @@ id,abbreviation,name,type
 7185,HESS,HelpEducation South Sudan,NGO
 7469,HF,Helpers Foundation,NGO
 3102,HSWO,Helper Social Welfare Organization,NGO
+11946,HF-AFRICA,Help Food Security and Livelihood Africa,NGO
 5760,Help for school,Help for school,Private organization/foundation
 4534,HELP e.V.,Help - Hilfe zur Selbsthilfe e.V.,NGO
 5048,HAFO,Helping Afghan Farmers Organization,NGO
@@ -4990,11 +5016,11 @@ id,abbreviation,name,type
 10586,HHA,Hokma Humanitarian Aid,NGO
 6467,HCO,Hold the Child Organisation,NGO
 2797,Holistic Management,Holistic Management,NGO
-5028,HUJRA,Holistic Understanding for Justified Research and Action,Private organization/foundation
+5028,HUJRA,Holistic Understanding for Justified Research and Action,NGO
 4278,Holt International,Holt International Childrens Services,Private organization/foundation
 9004,HFH,Holy Family Hospital,Private organization/foundation
 3806,Holy See,"Holy See, Government of",Government
-6431,HBWWCA,Home Based Women Workers Center Association,Private organization/foundation
+6431,HBWWCA,Home Based Women Workers Center Association,NGO
 1698,Home Depot Foundation,Home Depot Foundation,Private organization/foundation
 1499,HHR,Home for Human Rights,NGO
 9962,HLA,Homs League Abroad,NGO
@@ -5010,10 +5036,12 @@ id,abbreviation,name,type
 5034,HOPE'87,HOPE’87 – Hundreds of Original Projects for Employment,Private organization/foundation
 7745,HAO,Hope Africa Organization,NGO
 10613,HASS,Hope Africa South Sudan,NGO
+11941,HARD,Hope Agency For Relief and Development,NGO
 9030,HARO,Hope Alive Resilience Organization,NGO
 9236,Hope alRajaa,Hope Alrajaa for Development and Improvement,NGO
 10043,Hope Sudan,Hope and Friendship for Development Organization,NGO
 7236,HPFC,Hope and Peace Foundation for Children,NGO
+11881,HRO,Hope and Response Organisation,NGO
 7425,HARAF,Hope and Rural Aid Foundation,NGO
 6377,HCF,Hope Creator Foundation,NGO
 10877,H4BF,Hope for a better Future,NGO
@@ -5024,6 +5052,7 @@ id,abbreviation,name,type
 3910,Hope for the Horn,Hope for the Horn,NGO
 10913,HOVUCA,Hope for Vulnerable Children Association,NGO
 9619,HFCD,Hope Foundation for Community Development,NGO
+11890,HFD,Hope Foundation for Development,NGO
 9350,HOPE Foundation,HOPE Foundation for Woman and Children of Bangladesh,NGO
 10831,HT,Hopeful Touch,NGO
 5250,HIA,Hope in Action,NGO
@@ -5104,7 +5133,7 @@ id,abbreviation,name,type
 2403,HDF,Human Development Foundation,NGO
 5768,HDO,Human Development Organization,NGO
 5098,HDOD,Human Development Organization Doaba,NGO
-5062,HDP,Human Development Programme,Private organization/foundation
+5062,HDP,Human Development Programme,NGO
 6332,HDS,Human Development Society,NGO
 5946,HDS,Human Dignity Society Baluchistan,NGO
 8040,HACO,Humane Aid for Community Organization,NGO
@@ -5123,6 +5152,7 @@ id,abbreviation,name,type
 2507,HAP,Humanitarian Accountability Partnership International,NGO
 1344,HARDO,Humanitarian Action for Relief and Development Organisation,NGO
 5894,HAPA,Humanitarian Action for the People Afghanistan,NGO
+11899,HARECOD, Humanitarian Action to Restore and Empower Communities for Development,NGO
 9626,HAGI,Humanitarian Actors for Grassroot Initiative,NGO
 10355,HAG,Humanitarian Advisory Group,Private organization/foundation
 10529,HAPD,Humanitarian Advocacy for Peace and Development,NGO
@@ -5134,6 +5164,7 @@ id,abbreviation,name,type
 9715,HAD,Humanitarian Aid for Development,NGO
 1083,HumAID Foundation,Humanitarian Aid Foundation,NGO
 4458,HART,Humanitarian Aid Relief Trust,NGO
+11924,HDA,Humanitarian and Development Alternatives,NGO
 930,HDC,Humanitarian and Development Consortium,NGO
 10734,AHSPHT,Humanitarian and social action of people with disabilities in Chad,NGO
 9771,HADAAF,Humanitarian Assistance and Development Association for Afghanistan,NGO
@@ -5176,6 +5207,7 @@ id,abbreviation,name,type
 11518,HISA,Humanity and Inclusion For Sustainable Advocates,NGO
 7936,HFD,Humanity Bridge Foundation for Development,NGO
 4059,HBAHR,Humanity Brotherhood Association  for Human Rights,Private organization/foundation
+11882,HCEO,Humanity & Community Empowerment Organization,NGO
 9720,HELPO,Humanity Empowerment and Leadership Promotion Organization,NGO
 6292,HF,Humanity First,NGO
 1362,Humanity First ,Humanity First USA,NGO
@@ -5291,7 +5323,7 @@ id,abbreviation,name,type
 9829,IMPACT,IMPACT Initiatives,NGO
 9230,IMPACT,IMPACT Iraq,NGO
 9144,IRD,Impact Relief and Development,NGO
-11726,"ISSA, Niger","Impact: Sante - Social - Action, Niger",NGO
+11726,"ISSA, Niger","Impact: Santé - Social - Action, Niger",NGO
 9207,IIMGC,Imperative Initiative for Motivation of Global Care,NGO
 3859,Imperial College,Imperial College,Private organization/foundation
 6525,IDCO,Improvement and Development for Communities Center,NGO
@@ -5393,7 +5425,7 @@ id,abbreviation,name,type
 1121,ID,Insan Diamond,NGO
 9293,IDWO,Insan Dost Welfare Society,NGO
 9950,INSAN PS,INSAN for Psychological Support,NGO
-6278,IFT,Insan Foundation Trust,Private organization/foundation
+6278,IFT,Insan Foundation Trust,NGO
 8104,INSAN,INSAN Iraqi Society for Relief and Development,NGO
 10524,ICSS,Inspire Children,NGO
 968,IND,Instan for Development,NGO
@@ -5488,7 +5520,7 @@ id,abbreviation,name,type
 10639,IDI,Intercede for Development Initiatives,NGO
 2654,IMA World Health,Interchurch Medical Assistance World Health,NGO
 10767,IDS,Intercommunity Development Social Organization,NGO
-11666,IADI,Intercommunity for African Development Initiative.,NGO
+11666,IADI,Intercommunity for African Development Initiative,NGO
 5271,Inter Cooperation,Inter Cooperation,NGO
 2871,IPA,Inter-Country People's Aid,NGO
 9696,ICD,Interface for Community Development,NGO
@@ -5577,6 +5609,7 @@ id,abbreviation,name,type
 4393,IFRC,International Federation of Red Cross and Red Crescent Societies,Red Cross/Red Crescent
 7400,FIDA Nigeria,International Federation of Women Lawyers,NGO
 10924,FIDA Cameroon,International Federation of Women Lawyers Cameroon,NGO
+11932,IFDC,International Fertlizer Development Center,NGO
 4577,IFESH,International Foundation for Education and Self Help,Private organization/foundation
 2703,IFES,International Foundation for Election Systems,NGO
 2631,IFFH,International Foundation for Hope,NGO
@@ -5600,7 +5633,7 @@ id,abbreviation,name,type
 3919,IIHL,International Institute of Humanitarian Law,Private organization/foundation
 4066,IIRR,International Institute of Rural Reconstruction,Private organization/foundation
 3607,IITA,International Institute of Tropical Agriculture,Inter-governmental
-2593,IICO,International Islamic Charitable Organization,NGO
+2593,IICO,International Islamic Charity Organization,NGO
 3397,IIRO,International Islamic Relief Organization,NGO
 2994,ILO,International Labour Organization,UN agency
 1600,ILPI,International Law and Policy Institute,Private organization/foundation
@@ -5675,6 +5708,7 @@ id,abbreviation,name,type
 4775,FIVB,International Volley-Ball Federation,Private organization/foundation
 519,IVY,International Volunteer Center of Yamagata,NGO
 10961,IPV,International War and Disaster Victims Protection Association,NGO
+2594,IWA,International Water Association,NGO
 5161,IWMI,International Water Management Institute,Private organization/foundation
 897,BIDWAY,International Way Development Building,NGO
 7760,La Strada-Ukraine,International Women's Rights Center “La Strada-Ukraine”,NGO
@@ -5770,10 +5804,8 @@ id,abbreviation,name,type
 949,IKL,Islamic Kurdish League,NGO
 7837,Rabit Woman,Islamic League for Iraqi Women,NGO
 5847,IMA,Islamic Medical Association,NGO
-11760,IRW,Islamic  Relief,NGO
 11815,ISRC,Islamic Relief Committee,NGO
 10106,IRJ,Islamic Relief Jordan,NGO
-11733,IRN,ISLAMIC RELIEF NIGER,Inter-governmental
 1543,IR Pakistan,Islamic Relief Pakistan,NGO
 2304,IRW,Islamic Relief Worldwide,NGO
 7865,ISO,Islamic Sham Organization,NGO
@@ -5806,7 +5838,6 @@ id,abbreviation,name,type
 1429,ITF,ITF,NGO
 5432,ITT Corporation,ITT Corporation,Private organization/foundation
 4806,IUED,IUED,Private organization/foundation
-2594,IWA,IWA,NGO
 2595,JF,Jaago Foundation,NGO
 8049,JRS,Jabalia Rehabilitation Society,NGO
 6529,JMCO,Jabal Marra Charity Organization for Rural Development,NGO
@@ -5975,6 +6006,7 @@ id,abbreviation,name,type
 8328,Justice Center Iraq,Justice Center to Support Marginalized Groups in Iraq,NGO
 10522,J4CO,Justice for Children Organization (South Sudan),NGO
 9863,JCT,Justice for Children (Zimbabwe),NGO
+11942,JFO,Justice Foundation Organization,NGO
 11450,JGO,Justice Gate Organization,NGO
 11244,JWF,Justice without Frontiers,NGO
 3471,JJB,Just Joy Bridging,NGO
@@ -6057,13 +6089,13 @@ id,abbreviation,name,type
 2561,Keren Hayesod,Keren Hayesod,NGO
 4578,KESI,KESI,Private organization/foundation
 10879,KFC,Key Farmers Cameroon,NGO
-5869,KEO,Keyhan Engineering Organization,NGO
+5869,KEO,Keyhan Engineering Organization,Private organization/foundation
 2028,Key Stone,Key Stone,NGO
 2045,KFUK/KFUM,KFUK/KFUM,NGO
 6544,KFW,KFW Development,Financial institution
 8287,KFD,Khadija Foundation for Development,NGO
 10157,KAHO,Khairat Al-Nahraeeen of Human Organization,NGO
-3613,KKKO,Khair Khawa-e-Khalaq Organization,Private organization/foundation
+3613,KKKO,Khair Khawa-e-Khalaq Organization,NGO
 8408,KFRSD,Khairon Foundation for Relief and Social Development,NGO
 309,KRDO,Khairpur Rural Development Organization,NGO
 238,KCS,Khajji Cooperative Society,NGO
@@ -6101,6 +6133,7 @@ id,abbreviation,name,type
 4015,Kindernothilfe e.V.,Kindernothilfe e.V.,NGO
 5200,KINDER USA,KINDER USA,NGO
 5487,Kindred Healthcare,Kindred Healthcare,Private organization/foundation
+11936,KUECHO,Kind United for Education and Community Health Organization,NGO
 1789,"Kinetic Concepts, Inc.","Kinetic Concepts, Inc.",Private organization/foundation
 9365,KAF,King Abdullah Foundation,Private organization/foundation
 11249,KBS,King Baudouin Foundation.,Private organization/foundation
@@ -6123,6 +6156,7 @@ id,abbreviation,name,type
 1519,"Kjemisk Forbund, Palestinagruppene","Kjemisk Forbund, Palestinagruppene",NGO
 1861,Klaila Organisation,Klaila Organisation,NGO
 4451,Kleenheat Gas,Kleenheat Gas,Private organization/foundation
+11961,KIK,Klub Inteligencji Katolickiej,NGO
 10548,KCDA,Knit Community Development Agency,NGO
 3862,KIWS,Knowledge for Iraqi Women Society,NGO
 1093,KNPDO,Knwafith for Peace and Development Organization,NGO
@@ -6225,6 +6259,7 @@ id,abbreviation,name,type
 6491,LSO,Labour Spring Organization,NGO
 2512,CDE,La chaine de l'espoir,NGO
 8746,La Cimade,La Cimade - Comité inter mouvements auprès des évacués,NGO
+11970,Lactica,Lactica,NGO
 243,LDWO,Lady Diana Welfare Organization,NGO
 9281,FENALCO,La Federación Nacional de Comerciantes,Private organization/foundation
 3742,FPT,La Future Porte du Tchad,NGO
@@ -6264,7 +6299,7 @@ id,abbreviation,name,type
 5014,LASOONA,LASOONA - Society for Human and Natural Resource Development,NGO
 1478,LQC,Las Qorey Concern,NGO
 878,LSI / Open Gate,La Strada International / Open Gate,NGO
-11568,LATAM FDF,Latam Freedom Development Foundation,NGO
+11568,LATAM FDF,Latam Freedom and Development Foundation,NGO
 5618,Latin American Benevolent Foundation,Latin American Benevolent Foundation,Private organization/foundation
 3804,Latter-Day Saint Charities,Latter-Day Saint Charities,NGO
 4850,Latvia,"Latvia, Government of",Government
@@ -6386,6 +6421,7 @@ id,abbreviation,name,type
 914,LCHDH,Ligue Culturelle Haïtienne pour les Droits Humains,NGO
 6938,LIZADEEL,Ligue de la Zone Afrique pour la Défense des Droits des Enfants et Elèves,NGO
 2883,LIPEDEM,Ligue de Protection de l'Enfant et le Développement des mamans (LIPEDEM),NGO
+11873,LIFEDEF,Ligue des femmes engage pour le développent familiale,NGO
 929,LIFA,Ligue Islamique d'Afrique,NGO
 5189,LGL,Lihir Gold Limited,Private organization/foundation
 4051,Lima Airport Partners,Lima Airport Partners,Private organization/foundation
@@ -6458,6 +6494,7 @@ id,abbreviation,name,type
 2043,Luchetti,Luchetti,Private organization/foundation
 380,LBIHR,Ludwig Boltzmann Institute of Human Rights,Private organization/foundation
 6500,LYDA,Lui Youth Development Organization,NGO
+11889,LCAD,Lukluk Community Association for Development,NGO
 10437,Lulu,Lulu Care - South Sudan,NGO
 6584,Lumanti,Lumanti,NGO
 3549,Lupin,Lupin,Private organization/foundation
@@ -6579,7 +6616,7 @@ id,abbreviation,name,type
 9111,MADFO,Map Action Development Foundation,NGO
 3168,Mapendo,Mapendo International,NGO
 9426,MARADECA,"MARADECA - Maranao People Development Center, Inc.",NGO
-6796,MF,Maram Foundation for Relief and Development,NGO
+6796,Maram,Maram Foundation for Relief and Development,NGO
 1768,Marathon Oil Company,Marathon Oil Company,Private organization/foundation
 8714,MARCH,MARCH Lebanon,NGO
 10407,MCA-Network,Marginalized Communities Advocates Network,NGO
@@ -6646,7 +6683,6 @@ id,abbreviation,name,type
 6809,MTT,Médecins aux Tours de la Terre (Doctors around the Earth),NGO
 2553,MDA,Médecins d'Afrique,NGO
 3777,MdM,Médecins du Monde,NGO
-11734,MDM,Médecins du Monde Belgique,NGO
 589,MdM Belgium,Médecins du Monde Belgium,NGO
 8534,MdM Canada,Médecins du Monde Canada,NGO
 8512,MdM France,Médecins du Monde France,NGO
@@ -6736,7 +6772,7 @@ id,abbreviation,name,type
 4305,Mercy Corps,Mercy Corps,NGO
 8613,MC Scotland,Mercy Corps Scotland,NGO
 671,MGV,Mercy Group of Volunteers,NGO
-3219,MHHA,Mercy Hands for Humanitarian Aid,NGO
+3219,Mercy Hands,Mercy Hands for Humanitarian Aid,NGO
 3410,Mercy Malaysia,Mercy Malaysia,NGO
 876,MOPD,Mercy Organization for Peace and Development,NGO
 1319,MR,Mercy Relief,NGO
@@ -6760,6 +6796,7 @@ id,abbreviation,name,type
 7458,MW,Miak Wadang,NGO
 9614,MWCDO,Miakwadang Community Development Organization,NGO
 8586,MIC EU Civil Protection,MIC EU Civil Protection,Inter-governmental
+11971,MDSF,Michel Daher Social Foundation,NGO
 4782,Micronesia,"Micronesia,  Federated States of, Government of",Government
 4781,Micronesia RC,Micronesia Red Cross,Red Cross/Red Crescent
 1403,MI,Micronutrient Initiative,NGO
@@ -6776,6 +6813,7 @@ id,abbreviation,name,type
 10929,Migrace,Migrace Organization,NGO
 9904,Fundación MIRARES,"Migrantes, Refugiados y Argentinos Emprendedores Sociales",NGO
 9355,MOAS,Migrant Offshore Aid Station,NGO
+11962,MAP,Migration & Asylum Project - Initiative of the The Ara Trust,NGO
 5510,Migros,Migros,Private organization/foundation
 2867,Mildmay,Mildmay,NGO
 5706,Milestone Management International LLC,Milestone Management International LLC,Private organization/foundation
@@ -6855,7 +6893,7 @@ id,abbreviation,name,type
 6040,IDEALE,Mission idéale d'actions humanitaires et de développement durable,NGO
 5058,Mission Inclusion,Mission Inclusion (formerly Léger Foundation),Private organization/foundation
 3399,Missionnaires du Divin Maître,Missionnaires du Divin Maître,Private organization/foundation
-2579,MDMaître,Missionnaires du Divin Maître/Shabunda,NGO
+2579,MDMaître,Missionnaires du Divin Maître / Shabunda,NGO
 3852,Mission Ost - DNK,Mission Ost - DNK,NGO
 10630,MPVT,Mission Parole de Vie du Tchad,NGO
 1140,MEDBOX,Missionsärztliches Institut Würzburg,NGO
@@ -6912,6 +6950,7 @@ id,abbreviation,name,type
 8996,Mosaic,Mosaic Humanitarian Relief and Development Society,NGO
 765,MOFYT,Mostagbal Organization for Youth Training,NGO
 6751,MaCDA,Mother and Children Development Aid,NGO
+11886,MCAO,MotherCare Action Organization,NGO
 6330,Mother Helpage Worldwide,Mother Helpage Worldwide,NGO
 6782,MAC,Mothering Across Continents,NGO
 9161,MLS,Motherland Somalia NGO,NGO
@@ -6942,6 +6981,7 @@ id,abbreviation,name,type
 4942,MALAO,Movement Against Small Arms in West Africa,NGO
 3598,Movement Centre of Jeju Citizen to Cooperation between South and North,Movement Centre of Jeju Citizen to Cooperation between South and North,Private organization/foundation
 1072,MWO,Move Welfare Organization,NGO
+11898,MEPT,Movimento de Educaçao Para Todos,NGO
 11565,MOCRECI, Movimiento Creando Ciudadanos,NGO
 4359,MPDL,"Movimiento por la Paz, el Desarme y la Libertad",NGO
 3384,"Movimiento Por La Paz, El Desarme Y La Libertad, (E)","Movimiento Por La Paz, El Desarme Y La Libertad, (E)",NGO
@@ -6949,6 +6989,7 @@ id,abbreviation,name,type
 2493,MOVIMONDO,MOVIMONDO,NGO
 3246,MF,Moving Forward Association,NGO
 7000,Movitel,Movitel,Private organization/foundation
+11892,AMODEC,Mozambican Association for Community Development / Associação Moçambicana de Desenvolvimento da Comunidade,NGO
 3360,Mozambique,"Mozambique, Government of",Government
 2468,Mozambique RC,Mozambique Red Cross Society,Red Cross/Red Crescent
 2848,MPDL - PRTM,MPDL - PRTM,NGO
@@ -6972,7 +7013,6 @@ id,abbreviation,name,type
 1480,MDTF-NS,Multi-Donor Trust Fund for the Sudan,UN agency
 3414,MDTF-S,Multi-Donor Trust Fund for the Sudan South,UN agency
 3846,MIF,Multinational Interim Force,Inter-governmental
-971,Multi-Partner Trust Fund,Multi-Partner Trust Fund,UN agency
 10474,MURADO,Muna Unified Relief and Development Organization,NGO
 1167,MDI,Munazamat Dawa Islamia,NGO
 11604,MS,Mundo Solidario,NGO
@@ -7010,8 +7050,8 @@ id,abbreviation,name,type
 7761,MLSF,Mystic Life Support Foundation,NGO
 9334,N/a,N/a,NGO
 7373,Navi,Naath Vision,NGO
-4481,"NABA""A","NABA""A",NGO
 6247,Nabaaal Hayat,Nabaaal Hayat Association for Relief and Development,NGO
+4481,Naba'a,Naba'a - Developmental Action without Borders,NGO
 6222,NADO,Nabda for Development,NGO
 7740,NFPS,Nabdh Al-Hayat Foundation for Public Services,NGO
 10760,Nabolok,Nabolok,NGO
@@ -7066,7 +7106,6 @@ id,abbreviation,name,type
 1586,Bank of Canada,National Bank of Canada,Private organization/foundation
 1665,National Basketball Association,National Basketball Association,Private organization/foundation
 7200,NCE-N,National Campaign for Education Nepal,NGO
-11696,NCBP,National Capacity Building Programme,NGO
 3184,NCCR,National Center for Community Rehabilitation,NGO
 1334,NCP HIV/AIDS,National Center for the Prevention of HIV/AIDS,Private organization/foundation
 1085,NCDO,National Christian Development Organization,NGO
@@ -7149,7 +7188,7 @@ id,abbreviation,name,type
 9679,NODI,Nation Oriented Development Initiative,NGO
 9140,NAO,Nation's Aid Organisation,NGO
 9045,NAO,Nation’s Aid Organization,NGO
-246,NCBP,Nations Capacity Building Program,NGO
+11696,NCBP,Nations Capacity Building Programme,NGO
 6464,NSDO,Nations Social Development Organization,NGO
 5549,Nationwide Insurance Foundation,Nationwide Insurance Foundation,Private organization/foundation
 6444,NOCDP,Natiq Organization of Community Development and Peace,NGO
@@ -7243,7 +7282,6 @@ id,abbreviation,name,type
 3148,Next Step AS,Next Step AS,NGO
 5326,NSP,Next Step Productions,NGO
 5715,Ngazi Moja Foundation,Ngazi Moja Foundation,Private organization/foundation
-9654,ADESP,NGO Actions pour le Développement Economique et Social des Populations,NGO
 7326,"NGO ""AUO on Affairs of IDPs""","NGO ""All-Ukrainian Organization on Affairs of Internally Displaced Persons""",NGO
 8749,Atina,NGO Atina - Citizens Association for Combating Trafficking in Human Beings and all Forms of Gender-based Violence,NGO
 4490,NGO Consortium,NGO Consortium,NGO
@@ -7337,8 +7375,7 @@ id,abbreviation,name,type
 5008,NET,Noor Education Trust,NGO
 7347,NORD Noor,Noor Organization for Rural Development,NGO
 6446,NOOR Pakistan,NOOR Pakistan,NGO
-11578,No permita malos tratos,No Permita malos tratos,NGO
-11585,ONG NO PERMITAS MALOS TRATOS,NO PERMITAS MALOS TRATOS,NGO
+11578,No Permitas Malos Tratos,No Permitas Malos Tratos,NGO
 4828,NORAD-Asia,NORAD-Asia,NGO
 11397,NorDev,Nord-Développement,NGO
 2286,NDRF,Nordic Demining Research Forum,Private organization/foundation
@@ -7481,7 +7518,6 @@ id,abbreviation,name,type
 4816,ORCHC,Office of the Resident and Humanitarian Coordinator,UN agency
 388,UNSCO,Office of the United Nations Special Coordinator for the Middle East Peace Process,UN agency
 1416,ODA,Official Development Assistance,NGO
-210,OPS,Oficina Panamericana de la Salud,Private organization/foundation
 9448,OKPK,Oganis pou Kore Pwoje Kominote,NGO
 1234,OFTNB,"Oganizasyon Fanm, Tou Nef Balan",NGO
 7147,Òganizasyon Fanm tou Nèf Balan,Òganizasyon Fanm tou Nèf Balan,NGO
@@ -7515,6 +7551,7 @@ id,abbreviation,name,type
 4437,Omidyar Fund,Omidyar Fund,Private organization/foundation
 794,ONAAR,ONAAR  Development Organization,NGO
 633,OAF,One Acre Fund,NGO
+11929,OEWTTL,On Eagles  Wings to Touch Lives,NGO
 5624,OneBeacon,OneBeacon Charitable Trust,Private organization/foundation
 4096,OB,One Buddhism,Private organization/foundation
 3039,OKBM,One Korea Buddhist Movement,NGO
@@ -7526,7 +7563,6 @@ id,abbreviation,name,type
 9674,ONG AD,ONG Action Directe,NGO
 8652,ONG ACDEV,ONG Action et Développement en Centrafrique,NGO
 11725,APE Nelefa MADA,ONG Action pour la Paix et l'Education,NGO
-11719,ONG ADESA,ONG Action pour le Developpement du Sahel,NGO
 4333,Actions,ONG Actions,NGO
 11766,ATDED,ONG Actions Tartit pour le Développement Durable,NGO
 10804,Adkoul,ONG Adkoul,NGO
@@ -7553,7 +7589,6 @@ id,abbreviation,name,type
 7019,OC,ONG Calebasse,NGO
 5987,ONGC,ONG de Chemana,NGO
 9673,ONG L C D C T P (ADDENA),ONG de lutte contre la drogue la corruption et la traite des personnes,NGO
-11727,L C D C T P  (ADDENA),ONG DE LUTTE CONTRE LA DROGUE LA CORRUPTION ET LA TRAITEV DES PERSONNES,NGO
 6690,ONG - D/APS,ONG - Développement / Association pour la Paix et la Solidarité,NGO
 9793,ONG DEMI-E,ONG Développement pour un Mieux Être,NGO
 5621,ONGD - FNEL,ONGD - FNEL,NGO
@@ -7589,18 +7624,18 @@ id,abbreviation,name,type
 957,STOP - Sahel,ONG STOP - Sahel,NGO
 7572,Tabitha (AJFD),ONG Tabitha,NGO
 6088,Tamala,ONG Tamala,NGO
-10708,ATEV,ONG Terre Verte,NGO
 6111,TV,ONG Terre Vivante,NGO
-11729,Waraka,ONG Waraka,NGO
 674,ORDO,Onkod Relief and Development Organization,NGO
 2445,"Onnuri Church, Rep. of Korea","Onnuri Church, Rep. of Korea",NGO
 8227,OA,ONO Aid,NGO
 2348,ONUA - HRD,ONUA - HRD,NGO
 3213,öö Volkshilfe,öö Volkshilfe,NGO
 3139,OFID,OPEC Fund for International Development,Private organization/foundation
+11905,OCO,Open Community Organization,NGO
 145,OC,Open Continent,NGO
 1733,OD,Open Doors,NGO
 6263,OLE Nepal,Open Learning Exchange Nepal,NGO
+11969,ODA,Openness Development Association,NGO
 653,Open Society Foundations,Open Society Foundations,Private organization/foundation
 4603,OSIAF,Open Society Institute Assistance Foundation,Private organization/foundation
 5860,OMNM,Operasyon Men Nan Men,NGO
@@ -7624,6 +7659,7 @@ id,abbreviation,name,type
 8056,Orchard International,Orchard Association for Children Protection and Education,NGO
 8284,OML,Order of Malta Lebanon,Inter-governmental
 2672,OCF,Oregon Community Foundation,Private organization/foundation
+11923,OFAO,Organic Farming Advisory Organization,NGO
 9776,OAPE,Organisation africaine pour la protection des enfants,NGO
 9784,Al-Bir,Organisation Al-Bir pour le Secours et le Développement au Tchad,NGO
 9536,Al Farouk,Organisation Al Farouk,NGO
@@ -7753,7 +7789,6 @@ id,abbreviation,name,type
 10425,ODAWO,Owdweine Development and Welfare Organization,NGO
 744,OXFAM,OXFAM,NGO
 8499,OXFAM America,OXFAM America,NGO
-11775,OXFAM,Oxfam au Niger,NGO
 2609,OXFAM Australia,OXFAM Australia,NGO
 8520,OXFAM Belgium,OXFAM Belgium,NGO
 8519,OXFAM Canada,OXFAM Canada,NGO
@@ -8010,10 +8045,12 @@ id,abbreviation,name,type
 5446,Pentair,Pentair,Private organization/foundation
 5057,PAG-UG,Pentecostal Assemblies of God (Uganda),Private organization/foundation
 11628,PAOZ,Pentecostal Assemblies of Zimbabwe,NGO
+11904,PC-DRA,Pentecostal Church Development & Relief Agency,NGO
 1392,PCU,Pentecostal Churches of Uganda,NGO
 2819,PFM,Pentecostal Foreign Mission,NGO
 10881,PEP Africa,People Empowering People Africa,NGO
 2538,PECE,People Empowerment & Consulting Enterprise,NGO
+11928,Phedo South Sudan,People empowerment for development organization,NGO
 10290,PFP,People for People,Private organization/foundation
 2523,PIA,People in Aid,NGO
 141,PIN,People in Need,NGO
@@ -8099,7 +8136,6 @@ id,abbreviation,name,type
 3369,Plan,Plan International,NGO
 9820,Plan Bangladesh,Plan International Bangladesh,NGO
 9754,Plan Mali,Plan International Mali,NGO
-11758,PIN,Plan international Niger,NGO
 11618,Plan Viet Nam,Plan International Viet Nam,NGO
 4435,Plan Ireland,Plan Ireland,NGO
 981,Plan Liberia,Plan Liberia,NGO
@@ -8127,6 +8163,7 @@ id,abbreviation,name,type
 2689,POP,Point of Peace,NGO
 11351,Point,Point Online,NGO
 8182,PO,POINT Organization,NGO
+11940,POYA,Pojulu Youth Association,NGO
 5699,PokerStars,PokerStars,Private organization/foundation
 86,Poland,"Poland, Government of",Government
 2716,PAH,Polish Humanitarian Action,NGO
@@ -8213,6 +8250,7 @@ id,abbreviation,name,type
 1801,PRODEV,PRODEV (Promotion pour le Developpement),NGO
 6567,PADIH,Production Agro-Animale pour le Développement Intégré d'Haiti,NGO
 10492,Pro Familia,Pro Familia Switzerland,Private organization/foundation
+11943,PASS,Professional Alliance South Sudan,NGO
 6587,PHAP,Professionals in Humanitarian Assistance and Protection,NGO
 4634,Progedes-Nicaragua,Progedes-Nicaragua,NGO
 9907,PMM,Progettomondo.mlal,NGO
@@ -8334,6 +8372,7 @@ id,abbreviation,name,type
 8882,RRF,Rahma Worldwide (Formerly Rahma Relief Foundation),NGO
 675,RAHMO,RAHMO,NGO
 3069,RRO,Rahmo Rehabilitation Organisation,NGO
+2514,FPAP,Rahnuma-Family Planning Association of Pakistan,NGO
 5278,RFPAP,Rahnuma Family Planning Association Pakistan,NGO
 676,RDI,Raia Development Initiative,NGO
 2003,RPDO,Rainbow for Peace and Development Organisation,NGO
@@ -8379,6 +8418,7 @@ id,abbreviation,name,type
 1186,ROFHD,Reach out Foundation for Human Development,NGO
 5277,ROI,Reach Out Initiative,NGO
 10815,REO,Reach Out NGO,NGO
+11945,REOSS,Reachout South Sudan,NGO
 3128,ROTA,Reach Out To Asia,NGO
 10626,RUI,Reach Unreached International,NGO
 6313,RVO,Reach Vulnerable,NGO
@@ -8393,6 +8433,7 @@ id,abbreviation,name,type
 6758,RIO,Rebuild Initiative Organization,NGO
 950,RIRP,Rebuild Iraq Recruitment Program,NGO
 8917,RSRP,Rebuild Syria Reconstruction Program,NGO
+11965,Re:Coded,Re:Coded,NGO
 822,RSSAO,Reconstruction and Social Services for Afghanistan Organization,NGO
 9922,RACBO - SS,Recovery and Access to Commonly Best Optimism - South Sudan,NGO
 8986,RDP,Recovery Development Programme,NGO
@@ -8482,6 +8523,7 @@ id,abbreviation,name,type
 1520,RI,Rehabilitation International,NGO
 4730,RFI,Relationships Foundation International,Private organization/foundation
 10648,RADA,Relief Africa Development Agency,NGO
+11869,RA,Relief Agency,NGO
 6592,RADRA,Relief Aid for Disaster Reduction Agency,NGO
 1118,RADA,Relief And Development Action,NGO
 9023,RADA,Relief And Development Agency,NGO
@@ -8558,8 +8600,9 @@ id,abbreviation,name,type
 5626,RNDDH,Reseau National des droits humains,NGO
 10649,REDASAH,Réseau pour le développement des actions sociales et assistance humanitaire,NGO
 3455,RESAAL,Réseau Sénégalais d'Action sur les Armes Légères,Private organization/foundation
-11677,Reset the mind Association,Reset the mind Association,NGO
+11677,Reset the Mind,Reset the Mind Association,NGO
 2329,RCSO,Resident Coordinators Support Office,UN agency
+11948,RAF,Resilience Africa Fund,NGO
 5799,"Res Intl, RI",Resilience International,NGO
 9086,RO,Resilience Organisation Community Support Agency,NGO
 11444,Resless Development,Resless Development,Private organization/foundation
@@ -8775,7 +8818,7 @@ id,abbreviation,name,type
 11656,Safollomoy,Safollomoy Samaj Kollyan Unnayan Sangstha,NGO
 4369,SPF,SAFRA Edmond J. Philanthropic Foundation,Private organization/foundation
 3929,SAF,SAF - Science and Arts Foundation,Private organization/foundation
-11638,SAFWA,SAFWA CHARITY,NGO
+11638,Safwa,Safwa Charity Organization,NGO
 2039,Saga Falabella,Saga Falabella,Private organization/foundation
 3565,Sage,Sage Organisation,NGO
 1963,SIPL,Sagric Intenational Pty Ltd,Private organization/foundation
@@ -8852,6 +8895,7 @@ id,abbreviation,name,type
 9057,SFD,Sanabel For Development,NGO
 2103,SCF,SANAD Charity Foundation,Private organization/foundation
 8969,Sanad,Sanad for People with Special Needs Organization,NGO
+11947,SPHMO,Sanai Prison and Hospital Ministry Organisation,NGO
 3748,SYFEA,SANAR YURDATAPAN  - FEA,NGO
 6179,San Diego Foundation,San Diego Foundation,Private organization/foundation
 1841,SGAA,Sandy Gall Afghanistan Appeal,NGO
@@ -8930,7 +8974,6 @@ id,abbreviation,name,type
 9608,VIO,Sawt Al Mohajer,NGO
 7520,SAYA,Saya Welfare Development Organization,NGO
 9385,Sayfar,Sayfar Bio-Medical Waste Management and Environmental Protection,NGO
-11629,SAYWHAT,SAYWHAT,NGO
 2503,SBBDS,SBBDS,NGO
 10973,SIMN,Scalabrini International Migration Network,NGO
 3461,SC Alliance and PLAN Nepal,SC Alliance and PLAN Nepal,NGO
@@ -8955,10 +8998,11 @@ id,abbreviation,name,type
 3023,SCIAF,Scottish Catholic International Aid Fund,NGO
 5448,Scottrade,Scottrade,Private organization/foundation
 9756,SoR,Screen of Rights,NGO
-2032,SC/US and World Vision,SC/US and World Vision,NGO
+2032,SC/US and World Vision,SC/US and World Vision,Other
 4307,SDA-ADRA,SDA-ADRA,NGO
 773,SPJ,SDGs Promise Japan,NGO
 3296,SDW,SDW,NGO
+11903,SEA-P,SEA-Partners,NGO
 2172,SFCG,Search for Common Ground,NGO
 4264,Seattle Foundation,Seattle Foundation,Private organization/foundation
 11091,SIYD,Sebil Insani Yardim Dernegi,NGO
@@ -8997,6 +9041,7 @@ id,abbreviation,name,type
 10158,SAC,Send a Cow,NGO
 3724,Senegal RC,Senegalese Red Cross Society,Red Cross/Red Crescent
 2784,Senegal,"Senegal, Government of",Government
+11870,SÉNÉO,SÉNÉO-le service public de l'eau,Other
 3484,SWCC,SENIOR WOMEN CITIZENS FOR CHANGE,NGO
 10582,SOH,Sense of Home,NGO
 5812,Senter for Krisepsykologi,Senter for Krisepsykologi,NGO
@@ -9083,7 +9128,7 @@ id,abbreviation,name,type
 10597,STW,Share the World,NGO
 5849,SCH,Sharjah Charity House,Private organization/foundation
 7791,SOHD,Shar Organisation for Human Development,NGO
-4176,SFRD,Sharq Foundation for Rehabilitation and Development,Private organization/foundation
+4176,SFRD,Sharq Foundation for Rehabilitation and Development,NGO
 1405,SRP,Sharukhi Rehabilitation Project,NGO
 7142,SHASS,SHASSMEPPE,NGO
 7181,SFCD,Shawthab Foundation for Childhood and Development,NGO
@@ -9217,6 +9262,7 @@ id,abbreviation,name,type
 6100,SHAO,Social and Humanitarian Assistance Organization,NGO
 5139,SANHA,Social Architects Network for Humanitarian Assistance,NGO
 9361,SARPV,Social Assistance and Rehabilitation for the Physically Vulnerable,NGO
+11894,ASAC,Social Association for Community Support / Associação Social de Apoio Comunitário,NGO
 5090,SADA,Social Awareness & Development Association,NGO
 11342,SCS-HAMA,Social Care Society in Hama,NGO
 8206,SCC,Social Crisis Center,NGO
@@ -9241,12 +9287,14 @@ id,abbreviation,name,type
 2335,SSO,Social Solidarity Organisation,NGO
 6163,STARO,Social Transformation And Rehabilitation Organization,NGO
 272,SWWD,Social Watch and Welfare Development,NGO
+6447,SWC,Social Welfare Council,NGO
 9132,SWNI,Social Welfare Network Initiative,NGO
 6317,SYCOP,Social Youth Council of Patriots,NGO
 5089,SYWO,Social Youth Welfare Organization,NGO
 11194,SADET,Sociedad Anticancerosa Del Estado Trujillo,NGO
 11271,SAV,Sociedad Anticancerosa de Venezuela,NGO
 10996,SBC,Sociedad Bolivariana de Curaçao,NGO
+11959,SEPPA,Sociedade Economica de Produtores e Processadores Agrarios,Private organization/foundation
 10182,SVIAA,Sociedad Venezolana de Ingenieros Agrónomos y Afines,NGO
 11594,SWW,Sociedad Wills Wilde AC,NGO
 3537,SARP,Société Algérienne de Recherche en Psychologie,Private organization/foundation
@@ -9285,6 +9333,7 @@ id,abbreviation,name,type
 6824,Spring International,Society for Peacebuilding Research and Integration of Normative Gender,Private organization/foundation
 5041,SPEED,Society for Promotion of Education and Employment for Disabled,NGO
 3716,SSTD,"Society for Skills, Trainings & Development",NGO
+11966,SSSE,Society for Social Support and Education,NGO
 7320,SSTS,Society for Social & Technological Support,NGO
 6450,SSD,Society for Sustainable Development,NGO
 6386,SACHET,"Society for the Advancement, Community, health, Education and Training",NGO
@@ -9299,6 +9348,7 @@ id,abbreviation,name,type
 7388,Hospital Friends,Society of Friends of Hospitals and Health Centers,NGO
 3971,SPHP,Society of Physically Handicapped People,NGO
 10496,REC,Society of Remedial Education Center,NGO
+11938,STEP,Society Transformation and Empowerment Programme,NGO
 1105,SUWA,Society Unit Women Afghanistan,NGO
 6780,SEDHURO,Socio-Economic Development and Human Rights Organization,NGO
 5920,"SEEDTECH Foundation, Inc.","Socio-economic, Engineering and Environmental Development Technology Foundation, Inc.",NGO
@@ -9318,6 +9368,7 @@ id,abbreviation,name,type
 1530,SOLIDAR INGO CONSORTIUM ,SOLIDAR INGO CONSORTIUM,NGO
 231,SDW,Solidarität Dritte Welt,NGO
 73,Solidarität mit Lateinamerika,Solidarität mit Lateinamerika,NGO
+11897,SFBSP, Solidarité des Femmes Burundaises pour le Bien Etre Social et le progrès au Burundi,Private organization/foundation
 4594,SOFIBEF,Solidarité des Femmes de Fizi pour le Bien-Etre Familial (SOFIBEF),NGO
 81,SOFED,Solidarité des femmes en difficultés (SOFED),NGO
 10849,SOLIDEV,Solidarité Développement Inclusif,NGO
@@ -9534,10 +9585,12 @@ id,abbreviation,name,type
 1716,Southern Company Charitable Foundations,Southern Company Charitable Foundations,Private organization/foundation
 6813,SFSC,Southern Family Support and Child Protection,NGO
 5066,SSDPA,Southern Sudan Disabled Persons' Association,NGO
+11887,SSHCO,Southern Sudan Healthcare Organization,NGO
 3352,South-North Sharing Campaign for Peace and Reunification,South-North Sharing Campaign for Peace and Reunification,NGO
 5279,SOPAC,South Pacific Applied Geoscience Commission,Inter-governmental
 10530,SSYO,South Somali Youth Organization,NGO
 8764,SSAID,South Sudan Agency for Internal Development,NGO
+11877,SSARO,South Sudan Agriculture Research Organization,NGO
 6801,SSAWSS,South Sudan Association for Water Supply and Sanitation,NGO
 1819,SSCCA,South Sudan Christian Community Agency,NGO
 1077,SSUDA,South Sudan Development Agency,NGO
@@ -9586,6 +9639,7 @@ id,abbreviation,name,type
 1547,Spark Energy,Spark Energy,Private organization/foundation
 1552,SPDS,SPDS,NGO
 9699,SEARCH,Special Emergency Activity to Restore Children's Hope,NGO
+11958,SFERA,Special Fund for Emergency and Rehabilitation,Pooled fund
 635,SDC (OCHA),Specially Designated Contributions (OCHA),UN agency
 2020,SRSG,Special Representative of the Secretary-General,UN agency
 10292,Spectrum,Spectrum - Sustainable Development Knowledge Network,Private organization/foundation
@@ -9618,7 +9672,7 @@ id,abbreviation,name,type
 9014,SALF,Standard Action Liaison Force,NGO
 8114,Standard Alliance,Standard Alliance,NGO
 4591,SCB,Standard Chartered Bank,Private organization/foundation
-698,SGI,Standard Group Inc.,NGO
+698,SGI,Standard Group Inc.,Private organization/foundation
 108,ST. ANDREWS SOCIETY,ST. ANDREWS SOCIETY,NGO
 9317,FPD,Stanisława Bieńczak Child Support Foundation (Fundacja Pomocy Dzieciom im. Stanisławy Bieńczak),Private organization/foundation
 7773,SAEA,St. Anna Education Agency,NGO
@@ -9629,8 +9683,8 @@ id,abbreviation,name,type
 4518,STARH Project,STARH Project,NGO
 25,Star of Hope,Star of Hope,NGO
 11502,SHS,Stars of Hope Society for Empowerment of Women with Disabilities ,NGO
-850,Start Fund,Start Fund,NGO
 51,stART,stART international e.V. – emergency aid for children,NGO
+850,Start Network,Start Network,NGO
 8862,SP,Start Point,NGO
 9130,STO,Star Trust Organization,NGO
 2607,START Services,START Services,NGO
@@ -9668,7 +9722,6 @@ id,abbreviation,name,type
 1435,Stiftelsen Menneskeret.Huset,Stiftelsen Menneskeret.Huset,NGO
 3142,Stiftelsen Oljeberget,Stiftelsen Oljeberget,NGO
 459,SDIK,Stiftung des deutschen Instituts für Katastrophenmedizin,Private organization/foundation
-4216,Stiftung Deutsche Welthungerhilfe,Stiftung Deutsche Welthungerhilfe,NGO
 991,Stiftung KARIBU Kinderhilfe,Stiftung KARIBU Kinderhilfe,NGO
 2250,Stiftung Kasipiti,Stiftung Kasipiti,NGO
 2294,Stiftung St. Barbara,Stiftung St. Barbara,Private organization/foundation
@@ -9677,6 +9730,7 @@ id,abbreviation,name,type
 6949,StJAF,St John Association of Fiji,NGO
 6382,SJEH,St. John Eye Hospital,Private organization/foundation
 4610,St. Josephs Care and Support Trust at Sizanani Village,St. Josephs Care and Support Trust at Sizanani Village,Private organization/foundation
+11874,SMAPD,St. Monica Agency for Peace and Development,NGO
 6364,SIPRI,Stockholm International Peace Research Institute,Private organization/foundation
 9716,SCO,Stone Charity Organization,NGO
 3547,Stonepath Logistics,Stonepath Logistics,Private organization/foundation
@@ -9693,6 +9747,7 @@ id,abbreviation,name,type
 3822,Stromme Foundation,Stromme Foundation,Private organization/foundation
 1521,Strømmestiftelsen - UD-tilskudd,Strømmestiftelsen - UD-tilskudd,NGO
 5810,SAIH,Studentenes og Akademikernes Internasjonale Hjelpefond,NGO
+11629,SAYWHAT,Students And Youth Working on reproductive Health Action Team,NGO
 8782,SOL,Student's Organization for Literacy,NGO
 11824,SWS,Student Welfare Society,Private organization/foundation
 3905,SIDO,Sub-Saharan International Development Organization,NGO
@@ -9781,6 +9836,7 @@ id,abbreviation,name,type
 3926,Suriname RC,Suriname Red Cross,Red Cross/Red Crescent
 2741,SSWA,Surityoon Sujag Welfare Association,NGO
 2511,SAC,Survey Action Center,NGO
+11939,Survivor Aid,Survivor Aid,NGO
 4968,SC,Survivor Corps,NGO
 11328,Susamati,Susamati Moçambique,Private organization/foundation
 11341,Susan T. Buffett Foundation,Susan Thompson Buffet Foundation,Private organization/foundation
@@ -9804,6 +9860,7 @@ id,abbreviation,name,type
 3726,Viethealth,Sustainable Heath Development Centre,NGO
 2180,SID PAK,Sustainable Initiative for Development in Pakistan,NGO
 9658,SID SOM,Sustainable Initiative for Development in Somalia,NGO
+11884,SIDO,Sustainable Initiative for Development Organization,NGO
 7552,SIMRO,Sustainable International Medical Relief Organization,NGO
 9545,SLRO,Sustainable Livelihoods Relief Organization,NGO
 5837,SOIL,Sustainable Organic Integrated Livelihoods,NGO
@@ -9863,6 +9920,7 @@ id,abbreviation,name,type
 6620,SWISSO - Kalmo,SWISSO - Kalmo,NGO
 3564,Swisspeace,Swisspeace,NGO
 2477,Switzerland RC,Swiss Red Cross,Red Cross/Red Crescent
+11963,SRC/SFH,Swiss Refugee Council / Schweizerische Flüchtlingshilfe,NGO
 2357,SRC,Swiss Rotary Club,NGO
 2400,Swiss Solidarity,Swiss Solidarity,NGO
 2924,Switzerland,"Switzerland, Government of",Government
@@ -9916,6 +9974,7 @@ id,abbreviation,name,type
 7926,TACO,Tabarak Charity Orgnization,NGO
 5490,TabbFORUM,TabbFORUM,Private organization/foundation
 7462,TWS,Tabeer Welfare Society,NGO
+11968,Tabitha,Tabitha-Dorcas,NGO
 3720,"TACODAPU, INC.","TACODAPU, INC.",Private organization/foundation
 1149,TAKE,Tadabeer for Assistance and Kindness Everywhere,NGO
 7852,TPDO,Tadabeer for Peace and Development Organization,NGO
@@ -9925,7 +9984,7 @@ id,abbreviation,name,type
 3800,Tahaddi & Apprentis d'Auteuils,Tahaddi & Apprentis d'Auteuils,NGO
 7562,TODY,Tahdeeth Organisation for Development,NGO
 9218,Taimako-CDI,Taimako Community Development Initiative,NGO
-4562,TGWWC,Taiwan Grassroots Women Workers' Centre,Private organization/foundation
+4562,TGWWC,Taiwan Grassroots Women Workers' Centre,NGO
 6547,Taiwan ICDF,Taiwan International Cooperation and Development Fund,Private organization/foundation
 2206,Taiwan RC,Taiwan Red Cross Society,Red Cross/Red Crescent
 2499,Taiwan Rotary,Taiwan Rotary,Private organization/foundation
@@ -10011,10 +10070,9 @@ id,abbreviation,name,type
 4758,TdH,Terre des Hommes International,NGO
 8487,TdH - IT,Terre des Hommes - Italy,NGO
 8618,TdH - L,Terre des Hommes - Lausanne,NGO
-11668,TDH,Terre des Hommes - Nigeria,NGO
 657,TERREMOTO HAITI,TERREMOTO HAITI,NGO
 9133,TSF,Terre Sans Frontieres,NGO
-11798,ONG TEV,TERRE VERTE,NGO
+11798,ONG TEV,Terre Verte,NGO
 11705,TSSF,Tertiary Sisters of St Francis Shisong,NGO
 1718,Tesco,Tesco,Private organization/foundation
 4929,TEWPA,Teso Women Peace Activitist,Private organization/foundation
@@ -10364,7 +10422,6 @@ id,abbreviation,name,type
 2636,UNFPA Iran,UNFPA Iran,UN agency
 146,UNFPA/UNAIDS/HI/ANS,UNFPA/UNAIDS/HI/ANS,UN agency
 2938,UNFPA / WFP,UNFPA/WFP,UN agency
-1368,UNGTF,UN GENERAL TRUST FUND,UN agency
 3432,HSTF,UN Human Security Trust Fund,UN agency
 4107,UNIC,UNIC,UN agency
 8902,UNICEF Brazil,UNICEF Brazil,UN agency
@@ -10472,6 +10529,7 @@ id,abbreviation,name,type
 3875,UMC,United Methodist Church,NGO
 10898,UMORD,United Mission on Relief and Development,NGO
 2424,UNMIL Irish Battalion,United Missions Mission in Liberia Irish Battalion,UN agency
+11880,UMIHSS,United Mission to Improve Health in South Sudan,NGO
 5260,UN,United Nations,UN agency
 24,UNAMIS,United Nations Advance Mission in Sudan,UN agency
 10400,UNAMID,UNITED NATIONS - AFRICAN UNION HYBRID OPERATION IN DARFUR,UN agency
@@ -10489,6 +10547,7 @@ id,abbreviation,name,type
 11467,UNCTAD,United Nations Conference on Trade and Development,UN agency
 3193,UNGCI,United Nations Corps of Guards in Iraq,UN agency
 96,UNDEF,United Nations Democracy Fund,UN agency
+8573,UNOPS,United Nations Department of  Operational Support,UN agency
 4754,UN-DPKO,United Nations Department of Peace-Keeping Operations,UN agency
 11544,UNDPPA,United Nations Department of Political and Peacebuilding Affairs,UN agency
 4290,UNDSS,United Nations Department of Safety and Security,UN agency
@@ -10544,7 +10603,6 @@ id,abbreviation,name,type
 4234,UNOLA,United Nations Office of Legal Affairs,UN agency
 4905,UNODC,United Nations Office on Drugs and Crime,UN agency
 4935,UNOSAT,United Nations Operational Satellite Applications Programme,UN agency
-8573,UNOPS,United Nations Operation Programme Support,UN agency
 8449,UNOC-Angola,United Nations Operations Center - Angola,UN agency
 11460,UNPRPD,United Nations Partnership on the Rights of Persons with Disabilities,UN agency
 6849,UNFICYP,United Nations Peacekeeping Force in Cyprus,UN agency
@@ -10565,6 +10623,7 @@ id,abbreviation,name,type
 5312,UNVTFMA,United Nations Voluntary Trust Fund on Mine Action,UN agency
 5296,UNV,United Nations Volunteers Programme,UN agency
 511,UNEDP,United Network for Empowerment Development Programme,NGO
+11883,UNWO,United Network for Women Organisation,NGO
 9438,UNH,United Networks for Health,NGO
 862,UPA,United Palestinian Appeal,NGO
 913,UPO,United Peace Organization,NGO
@@ -10634,10 +10693,11 @@ id,abbreviation,name,type
 3894,UNMIL/CAU,UN Mission in Liberia/Corrections Advisory Unit,UN agency
 4535,UNAMSIL,UN Mission in Sierra Leone,UN agency
 63,MINURCAT,U.N. Mission in the Central African Republic and Chad (MINURCAT),UN agency
+971,MPTF,UN Multi-Partner Trust Fund,UN agency
 11310,MPTF for Sustainable Peace in Colombia,UN Multi-Partner Trust Fund for Sustaining Peace in Colombia,UN agency
 919,UNNIM,UNNIM Obra Social,Private organization/foundation
 3582,UNDRR,UN Office for Disaster Risk Reduction (formerly UNISDR),UN agency
-3473,UNO-Flüchtlingshilfe e.V.,UNO-Flüchtlingshilfe e.V.,Private organization/foundation
+3473,UNO-Flüchtlingshilfe e.V.,UNO-Flüchtlingshilfe e.V.,NGO
 2684,PBF,UN Peacebuilding Fund,UN agency
 3107,UPP,Un Ponte Per,NGO
 1355,UN Programme on HIV/AIDS,UN Programme on HIV/AIDS,UN agency
@@ -10647,13 +10707,11 @@ id,abbreviation,name,type
 403,UNSR - DRC,UN Stabilization and Recovery - DRC,UN agency
 2560,UNTCA,UN Technical Cooperative Activities,UN agency
 6150,UICD,UN TF for Int'l Coop&Dev,UN agency
-3925,UN Trust Fund,UN Trust Fund,UN agency
 1784,Unum,Unum,Private organization/foundation
 4772,UN Voluntary Fund for Indigenous Populations,UN Voluntary Fund for Indigenous Populations,UN agency
 4717,UNVTFTC,UN Voluntary Trust Fund for Technical Cooperation,UN agency
 2184,UNV/UNAMSIL,UNV/UNAMSIL,UN agency
 3569,UN Women,UN Women,UN agency
-11749,UNWOMEN,UNWOMEN,UN agency
 4798,UN Women's Guild,UN Women's Guild,Private organization/foundation
 7435,URURDO,"Upper Land Rainbow Unified, Relief, Reconciliation Development Organization",NGO
 9691,UNIRDO,Upper Nation Initiative for Rural Development Organization,NGO
@@ -10666,7 +10724,7 @@ id,abbreviation,name,type
 1312,UPR Info,UPR Info,NGO
 7888,UWO,Uprooted Women Organization,NGO
 3498,UPS Foundation,UPS Foundation,Private organization/foundation
-623,URDO International,Urban and Rural Development Organization,NGO
+623,URDO,Urban and Rural Development Organization,NGO
 7202,UEMS,Urban Environment Management Society,NGO
 5873,URBATEX,Urbanisation et Aide Technique Expérimentale,Private organization/foundation
 8225,URBAN REFUGEES,URBAN REFUGEES,NGO
@@ -10759,6 +10817,7 @@ id,abbreviation,name,type
 6747,VAC,Vision for African Child,NGO
 10485,VAC,Vision for Animal Care,NGO
 8395,VOD,Vision for Development,NGO
+11914,VISH,Vision for Health,NGO
 342,VHI,Vision Hope International,NGO
 6155,VP,Vision Plus,NGO
 7140,VIHAMO,Vision pour Haiti et pour le Monde,NGO
@@ -10783,6 +10842,7 @@ id,abbreviation,name,type
 9451,VFC-SS,Voice For Change,NGO
 9101,VPPD,"Voice for Peace, Protection and Development",NGO
 2874,VOICE,Voice for Poor and Needy,NGO
+11956,VNA,Voice News Agency,NGO
 4415,Voice of America,Voice of America,Private organization/foundation
 6243,VOP-Fam.,Voice of Older People and Family,NGO
 1370,VOM,Voice of the Mountains,Private organization/foundation
@@ -10801,6 +10861,7 @@ id,abbreviation,name,type
 9188,VNRHD,Voluntary Network for Rural Helping and Development,NGO
 475,VOICE,Voluntary Organisations in Cooperation in Emergencies,NGO
 4132,VSO,Voluntary Service Overseas,NGO
+11908,VARD,Volunteer Alliance for Relief and Development,NGO
 10584,"VA ""Believe in Ukraine""","Volunteer Association ""Believe in Ukraine""",NGO
 3814,VCGFR,Volunteer Corpes-Greek Firemen Replanters,NGO
 549,VG RAZOM,Volunteer Group RAZOM,NGO
@@ -10859,7 +10920,6 @@ id,abbreviation,name,type
 7032,WSTA,Watan’s Social Technical Services Association,NGO
 692,WARD,Watchful Association for Relief and Development,NGO
 1115,WaterAid,WaterAid,NGO
-11713,Water Aid,Water Aid,NGO
 7285,WDC,Water and Development Committee,NGO
 706,WES,Water and Environmental Sanitation Project,NGO
 7521,WSA,Water and Sanitation for Africa,Inter-governmental
@@ -10920,6 +10980,7 @@ id,abbreviation,name,type
 8724,WHOCB,White Hands Organization for Capacity Building,NGO
 8855,W.H.O.,White Hats Organisation,NGO
 8881,WS,White Smile,NGO
+11909,WADA-SS,Wider Aid and Development Agency-South Sudan,NGO
 7889,WOCO,Widows and Orphans Charitable Organization,NGO
 9664,WTDC,Widows Training and Development Center,NGO
 2775,Hewlett Foundation,William and Flora Hewlett Foundation,Private organization/foundation
@@ -10955,6 +11016,7 @@ id,abbreviation,name,type
 10473,WCDA,Women and Child for Development Association,NGO
 6623,WCI,Women and Child Initiative Organization,NGO
 2377,WOCCA,Women and Children Child Care Organization,NGO
+11952,WCHO,Women and Children Health Organization,NGO
 994,WCHO,Women and Children Hope Organization,NGO
 9544,WOCHA,Women and Children Humanitarian Aid,NGO
 5141,WCDT,Women and Children's Development Rights Trust,NGO
@@ -10981,10 +11043,12 @@ id,abbreviation,name,type
 961,WEO Iraq,Women Empowerment Organization - Iraq,NGO
 11381,WEO Pakistan,Women Empowerment Organization - Pakistan,NGO
 3702,WFLA,Women Farmers Land & Agriculture Trust,NGO
+11950,WFC,Women for change,NGO
 9594,W4H,Women for Health,NGO
 7196,WHR,Women for Human Rights,NGO
 10286,Women for the Word,Women for the World,NGO
 1818,WWI,Women for Women International,NGO
+11888,WFH,Women Foundation for Humanity,NGO
 9739,WHAA,Women Health Action Agency,NGO
 11753,WHWO,Women Health & Welfare Organization,NGO
 9039,WHA,Women Humanitarian Aid,NGO
@@ -11004,6 +11068,7 @@ id,abbreviation,name,type
 7393,WORDA,Women Rehabilitation and Development Association,NGO
 6554,WRDIF,Women Rehabilitation Development International Foundation,NGO
 9632,WRO,Women Rehabilitation Organization,NGO
+11916,WORADA,Women Resilience and Development Agency,NGO
 6955,WAG,Women's Action Group,NGO
 5829,WAC,Women's Affairs Center,NGO
 548,WATC,Women's Affairs Technical Committee,NGO
@@ -11111,7 +11176,7 @@ id,abbreviation,name,type
 8635,WV Niger,World Vision Niger,NGO
 3713,WVP,World Vision Pakistan,NGO
 8606,WV Philippines,World Vision Philippines,NGO
-3030,WVRD,World Vision Relief and Development  Inc.,NGO
+3030,WVRD,World Vision Relief and Development  Inc.,Other
 8601,WVRF,World Vision Russian Federation,NGO
 7141,WV Senegal,World Vision Senegal,NGO
 9524,WVI Somalia,World Vision Somalia,NGO
@@ -11211,6 +11276,7 @@ id,abbreviation,name,type
 6305,YWS,Young Welfare Society,NGO
 2288,YWCA/La Strada,Young Women's Christian Association/La Strada,Private organization/foundation
 1247,YAB,Youth across Border's,NGO
+11951,AYADA,Youth Action for Development Agency,NGO
 820,YAO,Youth Activity Organization,NGO
 713,YAPDA,Youth Advocacy for Peace and Development Association,NGO
 2810,YARRDSS,"Youth Agency for Relief, Rehabilitation and Development for South Sudan",NGO
@@ -11223,6 +11289,7 @@ id,abbreviation,name,type
 8143,YWDI,Youth and Women for Development Initiative,NGO
 6513,YAASO,Youth Anti-AIDS Services Organisation,NGO
 1069,YAAR,Youth Assembly for Afghanistan Rehabilitation,NGO
+11876,YCA-SSD,Youth Call for Action South Sudan,NGO
 5803,YCP,Youth Catalyst Pakistan,NGO
 7765,"YCF ""Initiative""","Youth Charitable Foundation ""Initiative""",NGO
 4985,YDVWA,Youth Development and Voluntary Work Association,NGO
@@ -11233,6 +11300,7 @@ id,abbreviation,name,type
 1998,YEDA,Youth Empowerment and Development Aid (formerly Lacha Community and Economic Development),NGO
 10162,YELI,Youth Empowerment and Leadership Initiative,NGO
 574,YEC,Youth Empowerment Center,NGO
+11915,YEF,Youth Empowerment Foundation,NGO
 10424,YESO,Youth Empowerment Solutions,NGO
 5916,YCDO,Youth for Capacity Development Organization,NGO
 9331,YFORD,Youth for Development,NGO
